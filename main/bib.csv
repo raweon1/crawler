@@ -1,0 +1,757 @@
+id,author,title,year,tag
+0,"Yan, Anlu and Gong, Wei-Bo",Fluid Simulation for High Speed Networks,1997,itc15
+1,"Yokoyama, Hiroyuki and Oda, Toshikane and Nakamura, Hajime",Dimensioning Dual-Rate Access Links of a Mobile Cellular Network,1997,itc15
+2,"Wang, Wei-Ping and Tipper, David and Jaeger, Bjorn and Medhi, Deep",Fault Recovery Routing in Wide Area Packet Networks,1997,itc15
+3,"Villen-Altamirano, M. and Sanchez-Canabate, M.F.",Effective Bandwidth Dependent of the Actual Traffic Mix: An Approach for Bufferless CAC,1997,itc15
+4,"Vakhutinsky, Andrew and Ball, Michael O.",Fault-Tolerant Virtual Path Layout in ATM Networks,1997,itc15
+5,"Vogt, Rugang and Killat, Ulrich",Frame-Mode Versus Cell-Mode Operation in ATM-Based Connectionless Networks,1997,itc15
+6,"Tsoukatos, Konstantinos P. and Makowski, Arm and M.",Heavy Traffic Analysis for a Multiplexer Driven by M/GI/\(\infty\) Input Processes,1997,itc15
+7,"Theberge, Francois and Guillemin, Fabrice and Mazumdar, Ravi",Some Performance Issues in ATM Block Transfer with Delayed Transmission,1997,itc15
+8,"Stademann, Rainer",Performance Model and Multi-Hour-Optimization of Circuit Switched Networks Driven by Optimized Dynamic Routing,1997,itc15
+9,"Shioda, Shigeo and Toyoizumi, Hiroshi and Yokoi, Hirofumi and Tsuchiya, Toshiaki and Saito, Hiroshi",Self-Sizing Network: A New Network Concept Based on Autonomous VP Bandwidth Adjustment,1997,itc15
+10,"Shahbaz, M.",Random Guided Algorithms for Fixed Network Design of Cellular Mobile Communication Networks,1997,itc15
+11,"Schwarz, Albrecht and Domschitz, Peter and Totzke and v.d. Straten, Gernot and Kreilinger, Robert",Overload Protection for Public B-ISDN Switching Systems,1997,itc15
+12,"Schmidt, Douglas C. and Hoeflin, David A. and Skoog, Ronald A.",Simple Models of Complex Transient Phenomena,1997,itc15
+13,"Schehrer, Rudolf G.",A Two Moments Method for Overflow Systems with Different Mean Holding Times,1997,itc15
+14,"Schopp, Michael",User Modelling and Performance Evaluation of Distributed Location Management for Personal Communications Service,1997,itc15
+15,"Scholtz, F.J.",Statistical Analysis of Common Channel Signalling System No.7 Traffic,1997,itc15
+16,"Sassen, Simone and van der Wal, Jan",The Response-Time Distribution in a Real-Time Database with Optimistic Concurrency Control and Exponential Execution Times,1997,itc15
+17,"Saniee, Iraj and Erramilli, Ashok and Pack, Charles D.",The Economics of Statistical Multiplexing for Broadband Networks,1997,itc15
+18,"Samuel, L.G. and Pitts, J.M. and Mondragon, R.J.",Towards the Control of Communication Networks by Chaotic Maps: Source Aggregation,1997,itc15
+19,"Songhurst, David and Kelly, Frank",Charging Schemes for Multiservice Networks,1997,itc15
+20,"Ritter, Michael",Congestion Detection Methods and Their Impact on the Performance of the ABR Flow Control,1997,itc15
+21,"Ramamurthy, G. and Kolarov, Aleks and ar",Application of Control Theory for the Design of Closed Loop Rate Control for ABR Service,1997,itc15
+22,"Rajaratnam, M. and Takawira, F.",A Two-Moment Analysis of Adaptive Routing. Case Study: Dynamic Control Routing,1997,itc15
+23,"Rose, O.",Discrete-Time Analysis of a Finite Buffer with VBR MPEG Video Traffic Input,1997,itc15
+24,"Rodriguez-Molowny, J. and Garcia-Ayllon, F. and Garcia-Gutierrez, s.",Blocking Evaluation Method for Multislot Connections with Fixed Contiguous Circuit Selection,1997,itc15
+25,"Pioro, Michal",Robust Design Problems in Telecommunication Networks,1997,itc15
+26,"Pazhynnur, Rajesh S. and Stolyar, Alex and Fleming, Philip J.",Fluid Analysis of CDMA Cellular Systems,1997,itc15
+27,"Panken, F. and Blondia, C. and Casals, O. and Garcia, J.",A MAC Protocol for ATM PONs Supporting Different Service Categories,1997,itc15
+28,"P and ya, Raj and Tseng, Stone and Basu, Kalyan",Some Performance Benchmarks for the Design of Wireless Systems and Networks,1997,itc15
+29,"Ouyang, Tung and Nilsson, Arne A.","Performance Modeling of an ATM-SMX in the NCIH with CBR, VBR, and UBR Traffic",1997,itc15
+30,"Nyberg, Henrik and Olin, Birgitta",On Flow Control in Systems with a Star Topology - Optimal State Dependent Policies,1997,itc15
+31,"Nitchiporenko, A. and Barbas, F.J. and Marin, A.",Multilevel Local Access Network Design,1997,itc15
+32,"Nilsson, Arne A. and Perry, Mark J.",Multirate Blocking Probabilites: Numerically Stable Computations,1997,itc15
+33,"Nielsen, Bo Friis and Ramaswami, V.",A Computational Framework for a Quasi Birth and Death Process with a Continuous Phase Variable,1997,itc15
+34,"Mitra, Debasis and Reiman, Martin I. and Wang, Jie",Robust Admission Control for Heterogeneous ATM Systems with Both Cell and Call QoS Requirements,1997,itc15
+35,"Mellaney, E. and Orozco-Barbosa, L.",Experimental Study of MPEG-2 Video Traffic Over a Metropolitan ATM Network Supporting Multimedia Traffic,1997,itc15
+36,"van der Mei, R.D.",Polling Systems in Heavy Traffic: Higher Moments of the Delay,1997,itc15
+37,"McDonald, David and Liao, Rui-Feng (Raymond) and Giroux, Natalie",Variation Fluctuation Smoothing for ATM Circuit Emulation Service,1997,itc15
+38,"Mayer, William J.",Congestion Control Interactions with Multiple User Parts in SS7,1997,itc15
+39,"Maunder, A.S. and Min, P.S.",Investigation of Rate Control in Routing Policies for B-ISDN Networks,1997,itc15
+40,"Mark, Brian L. and Jagerman, David L. and Ramamurthy, G.",Application of Peakedness Measures to Resource Allocation in High-Speed Networks,1997,itc15
+41,"Molnar, S and or and Vidacs, Attila",On Modeling and Shaping Self-Similar ATM Traffic,1997,itc15
+42,"Lindberger, Karl",Cost Based Charging Principles in ATM Networks,1997,itc15
+43,"Leung, Kin K. and Levy, Yonatan",Data Replication Schemes for Global Networks,1997,itc15
+44,"Latouche, Guy and Ramaswami, V.",Spatial Point Patterns of Phase Type,1997,itc15
+45,"Kumar, P. Sarath and N and a, Sanjiv and Rege, Kiran M.",Characterization of Capacity Gain due to Macro-Diversity in CDMA Systems,1997,itc15
+46,"Kulkarni, Lalita A. and Li, San-qi",Modeling the Microdynamics of Correlated Traffic,1997,itc15
+47,"Krishnan, K.R. and Neidhardt, A.L. and Erramilli, A.",Scaling Analysis in Traffic Management of Self-Similar Processes,1997,itc15
+48,"Krishnan, K.R. and Huebner-Szabo de Bucs, F.",Admission Control and State-Dependent Routing for Multirate Circuit-Switched Traffic,1997,itc15
+49,"Kim, Yonghwan and Li, San-qi",Performance Analysis of Data Packet Discarding in ATM Networks,1997,itc15
+50,"Kihl, Maria and Rumsewicz, Michael",Analysis of Overload Control Strategies in Combined SSP-SCPs in the Intelligent Network,1997,itc15
+51,"Katayama, Tsuyoshi",Priority Queues with Bernoulli Schedules,1997,itc15
+52,"Karsten, M. and Roos, J.",Towards Usage-Based Accounting: Applying Policy-Based Intelligent Agents,1997,itc15
+53,"Kant, K.",Flow-Control Issues in ATM Signalling Link Deployment,1997,itc15
+54,"Kang, Sang H. and Oh, Changhwan and Han, Chimoon and Sung, Dan K.",Performance Evaluation of a High-Speed ATM Switch with Multiple Separated Common Memories,1997,itc15
+55,"Kofman, D. and Yechiali, U.",Queueing Networks with Station Breakdowns and Globally Gated Service Regime,1997,itc15
+56,"Jennings, O.B. and Massey, W.A. and McCalla, C.",Optimal Profit for Leased Lines Service,1997,itc15
+57,"Jelenkovic, Predrag R. and Lazar, Aurel A.",Multiplexing On-Off Sources with Subexponential On Periods: Part II,1997,itc15
+58,"Jang, Hee-Seon and Lim, Seog-Ku and Yu, Jea-Hoon and Lee, Yoon-Ju and Han, Chi-Moon",Performance Analysis of Minimum-Dwell-Time-First Handover Scheme in Mobile Cellular Communications,1997,itc15
+59,"Jordan, Javier and Barcelo, Francisco",Statistical Modelling of Channel Occupancy in Trunked PAMR Systems,1997,itc15
+60,"Jogalekar, P.P. and Woodside, C.M.",A Scalability Metric for Distributed Computing Applications in Telecommunications,1997,itc15
+61,"Iversen, V.B. and Stepanov, S.N.",The Usage of Convolution Algorithm with Truncation for Estimation of Individual Blocking Probabilities in Circuit-Switched Telecommunication Networks,1997,itc15
+62,"Ivanovich, M.V. and Zukerman, M. and Addie, R.G.",Performance Evaluation of an IEEE 802.14 MAC Protocol under Realistic Traffic Conditions,1997,itc15
+63,"Hung, Anthony and Kesidis, George",Performance Evaluation of Multilevel-Assignment Hierarchical Round-Robin Bandwidth Scheduling for ATM,1997,itc15
+64,"Huang, C. and Lambadaris, I. and Devetsikiotis, M. and Glynn, P.W. and Kaye, A.R.",DTMW: A New Congestion Control Scheme for Long-Range Dependent Traffic,1997,itc15
+65,"Hu, Po-Chi and Kleinrock, Leonard",An Analytical Model for Wormhole Routing with Finite Size Input Buffers,1997,itc15
+66,"Hjalmtysson, Gisli",Lightweight Call Setup - Supporting Connection and Connectionless Service,1997,itc15
+67,"Herzberg, M. and Wells, D.J. and Herschtal, A.",Optimal Resource Allocation for Path Restoration in Mesh-Type Self-Healing Networks,1997,itc15
+68,"Heegaard, Poul E.",Efficient Simulation of Network Performance by Importance Sampling,1997,itc15
+69,"Halberstadt, S. and Kofman, D.",A Dynamic Bandwidth Allocation Mechanism for Connectionless Traffic on ATM Networks,1997,itc15
+70,"Hadziomerovic, Faruk and Basu, Kalyan",Models of the Automatic Switch Recovery,1997,itc15
+71,"Houck, David J. and Lai, Wai Sum",Engineering the Upstream Traffic Capacity of Hybrid Fiber-Coax Systems,1997,itc15
+72,"Hou, Yiwei Thomas and Tzeng, Henry H.-Y. and {Kumar, Vijay}, P.",On Fair Rate Allocation Policies with Minimum Cell Rate Guarantee for ABR Service in ATM Networks,1997,itc15
+73,"Guillemin, Fabrice and Rubino, Gerardo and Sericola, Bruno and Simonian, Alain",Transient Analysis of Statistical Multiplexing of Data Connections on an ATM Link,1997,itc15
+74,"Greenberg, Albert and Srikant, R. and Whitt, Ward",Resource Sharing for Book-Ahead and Instantaneous-Request Calls,1997,itc15
+75,"Grasse, M. and Frater, M.R. and Arnold, J.F.",Origins of Long-Range Dependence in Variable Bit Rate Video Traffic,1997,itc15
+76,"Grossglauser, M. and Ramakrishnan, K.K.",SEAM: An Architecture for Scalable and Efficient ATM Multipoint-to-Multipoint Communication,1997,itc15
+77,"Girard, A. and Rosenberg, C.",A Unified Framework for Network Design with Generalized Connections,1997,itc15
+78,"Gibbens, R.J. and Kelly, F.P.",Measurement-Based Connection Admission Control,1997,itc15
+79,"Gianini, Jacqueline",Link Delays in Signalling System No.7 Networks,1997,itc15
+80,"Ghani, Nasir and Mark, Jon W.",An Enhanced Distributed Explicit Rate Allocation Algorithm for ABR Services,1997,itc15
+81,"Gerlich, Notker and Tran-Gia, Phuoc and Elsayed, Khaled and Jain, Nikhil",Performance Analysis of Link Carrying Capacity in CDMA Systems,1997,itc15
+82,"Gachoud, Yves",A Recursive Adaptive D-BMAP Parameters Estimation Based on Information Measure,1997,itc15
+83,"Gordon, J.J.",Overview of Internet Traffic Issues on the PSTN,1997,itc15
+84,"Fuhrmann, Steven",On Approximating Mean Waiting Times in Polling Models with Half of the Mean Cycle Time,1997,itc15
+85,"Frey, Andreas and Takahashi, Yoshitaka",Explicit Solutions for the M/GI/1/N Finite Capacity Queues with and Without Vacation Time,1997,itc15
+86,"Fredericks, A.A. and Bastian, W.",Performance Impact of the Initalization Interval of Certain Networks Employing OSPF Routing,1997,itc15
+87,"Floriani, Lauro C.P. and Robson Mateus, Geraldo",An Optimization Model for the BST Location Problem in Outdoor Cellular and PCS Systems,1997,itc15
+88,"Fares, Richard A.","An Unavailability Model for Commercially Powered, Battery Backed-up, Residential Telephone Lines",1997,itc15
+89,"Fortz, Bernard and Labbe, Martine and Maffioli, Francesco",Methods for Designing Reliable Networks with Bounded Meshes,1997,itc15
+90,"Esteves, Jorge Sa and Craveirinha, Jose and Cardoso, Domingos M.",A Reduced Recurstion for Computing Erlang-B Function Derivatives,1997,itc15
+91,Ernst,Near-Optimal Link Allocation of Blockable Narrow-Band and Queueable Wide-Band Call Traffic in ATM Networks,1997,itc15
+92,"Dziong, Zbigniew and Zhang, Jisheng and Mason, Lorne G.",Virtual Network vs. Virtual Path Design for ATM Networks,1997,itc15
+93,"Durinovic-Johri, Sanja and Levy, Yonatan",Advanced Routing Solutions for Toll-Free Customers: Algorithm Design and Performance,1997,itc15
+94,"Duffield, N.G. and Whitt, Ward",Recovery from Congestion in a Large Multi-Server System,1997,itc15
+95,"Drwiega, T.",Shared Memory Contention and its Impact on Multi-Processor Call Control Throughput,1997,itc15
+96,"Didelet, Elisabeth",Circuit-Switched Traffic Forecasting Using Neural Networks,1997,itc15
+97,"Dempster, M.A.H. and Medova, E.A. and R.T., Thompson",A Stochastic Programming Approach to Network Planning,1997,itc15
+98,"Doshi, B.T. and Harshavardhana, P. and Johri, P.K. and Nagarajan, R.",Dual (Sonet) Ring Interworking: High Penalty Cases and How to Avoid Them,1997,itc15
+99,"van Doorn, E.A. and Scheinhardt, W.R.W.",A Fluid Queue Driven by an Infinite-State Birth-Death Process,1997,itc15
+100,"Chuah, Mooi Choo and Nagarajan, Ramesh",Traffic Shaping for Frame Relay and IP Packets in an Enterprise Switch,1997,itc15
+101,"Chu, Hon-Wai and Tsang, Danny H.K.",Performance Monitoring Using Regression Approach in ATM Networks,1997,itc15
+102,"Chlebus, Edward",Empirical Validation of Call Holding Time Distribution in Cellular Communications Systems,1997,itc15
+103,"Chih-Lin, I. and N and a, Sanjiv",Cellular Interference Control for Integrated Service over CDMA,1997,itc15
+104,"Choudhury, Gagan L. and Whitt, Ward",Scaling for Numerical Transform Inversion to Analyze Teletraffic Models,1997,itc15
+105,"Choudhury, Abhijit K. and Hahne, Ellen L.",Dynamic Queue Length Thresholds for Multipriority Traffic,1997,itc15
+106,"Choe, J. and Shroff, N.B.",A Central Limit Theorem Based Approach to Analyze Queue Behavior in ATM Networks,1997,itc15
+107,"Casoni, Maurizio and Turner, Jonathan",Improved Analysis of Early Packet Discard,1997,itc15
+108,"Cadro, P. and Gravey, A. and Guillemot, C.",Performance Evaluation of an Optical Transparent Packet Switch,1997,itc15
+109,"Cotter, R. and Medhi, D. and Tipper, D.",Traffic Backlog and Impact on Network Dimensioning for Survivability for Wide-Area VP-Based ATM Networks,1997,itc15
+110,"Cohen, J.W.",On Determination of the Stationary Distribution of Symmetric Clocked Buffered Switch,1997,itc15
+111,"Cohen, Edward E. and Tu, Martin",Wideband Traffic Measurements and Performance for the Unrestricted Timeslot Assignment Scheme,1997,itc15
+112,"Coffman, E.G. Jr. and Gilbert, E.N. and Kogan, Y.A.",Optimal Redialing Policies,1997,itc15
+113,"Burns, James E. and Ghosal, Dipak",Automatic Detection and Control of Media Stimulated Focused Overloads,1997,itc15
+114,"Bulteau, S. and Rubino, G.",A New Approach to Vulnerability Evaluation of Communication Networks,1997,itc15
+115,"Brichet, F. and Massoulie, L. and Roberts, J.W.",Stochastic Ordering and the Notion of Negligible CDV,1997,itc15
+116,"Br and t, Andreas and Br and t, Manfred and Spahl, Gerd and Weber, Dietmar",Modelling and Optimization of Call Distribution Systems,1997,itc15
+117,"Blefari-Melazzi, Nicola",An Error Controlled Algorithm for the Performance Analysis of Queueing Systems Loaded with MPEG Codified Video Sources,1997,itc15
+118,"Berezner, S.A. and Krzesinski, A.E.",Hybrid Alternative Routing Strategies in Communication Networks,1997,itc15
+119,"Bauschert, Thomas",Multihour Design of Multi-Hop Virtual Based Wide-Area ATM Networks,1997,itc15
+120,"Baldwin, John and Bharucha, Behram and Doshi, Bharat and Dravida, Subra and N and a, Sanjiv",AAL-CU: An ATM Adaptation Layer for Small Packet Encapsulation,1997,itc15
+121,"Bakshi, Yury and Diaz, Alvaro H. and Meier-Hellstern, Kathleen",Overload Control in a Distributed System,1997,itc15
+122,"Boxma, O.J.",Regular Variation in a Multi-Source Fluid Queue,1997,itc15
+123,"Boutleux, Emmanuel and Dubuisson, Bernard",Fuzzy Pattern Recognition for a System Evolution Diagnosis. Application to a Model of the French Telephone Network,1997,itc15
+124,"le Boudec, Jean-Yves and Ziedins, Arnis",A CAC Algorithm for VBR Connections over a VBR Trunk,1997,itc15
+125,"Borst, Sem and Mitra, Debasis","Virtual Partitioning for Resource Sharing by State-Dependent Priorities: Analysis, Approximations, and Performance for Heterogeneous Traffic",1997,itc15
+126,"Bondi, A.B.",A Model of the Simultaneous Possession of Agents and Trunks with Automated Recorded Announcement,1997,itc15
+127,"Bolotin, V.A.",New Subscriber Traffic Variability Patterns for Network Traffic Engineering,1997,itc15
+128,"Bolot, J.-C. and Lamblot, S.M. and Simonian, A.",Design of Efficient Caching Schemes for the World Wide Web,1997,itc15
+129,"Ash, Gerald R. and Chen, Jiayu and Fishman, Saul D. and Zerling, David",Real-Time Inter-Network Routing in the AT\&T Network,1997,itc15
+130,"Arvidsson, Ake and Pettersson, Stefan and Angelin, Lars",Profit Optimal Congestion Control in Intelligent Networks,1997,itc15
+131,"Archambault, Sylvain and Qian, Kun",Blocking Probability in Residential Broadband Access Systems,1997,itc15
+132,"Anjum, Farooq M. and Shayman, Mark A. and Tassiulas, Le",On Maximum Throughput Paging Policies in Wireless Networks,1997,itc15
+133,"Anerousis, Nikolaos and Lazar, Aurel A.",A Framework for Pricing Virtual Circuit and Virtual Path Services in ATM Networks,1997,itc15
+134,"Akar, N. and Sohraby, K.",Matrix Geometric Solutions in M/G/1 Type Markov Chains with Multiple Boundaries: A Generalized State-Space Approach,1997,itc15
+135,"Ahlfors, Ulf and Nyberg, Christian",Near-Optimal Load Control of a Message-Passing Multiprocessor System: A Decentralized Markov Decision Approach,1997,itc15
+136,"Mandjes, Michel and van den Berg, Hans",Some New Techniques for Resource Allocation in Single- and Multi-Link ATM Systems,1997,itc15
+137,"Mandelbaum, A. and Massey, William A. and Reiman, Martin I. and Rider, Brian",Time Varying Multiserver Queues with Abandonment and Retrials,1999,itc16
+138,"Zwart, A.P.",Sojourn Times in a Multiclass Processor Sharing Queue,1999,itc16
+139,"Zhu, Yuhong and Rouskas, George N. and Perros, Harry G.","Blocking in Wavelength Routing Networks, Part II: Mesh Topolgies",1999,itc16
+140,"Wuyts, K. and van Houdt, B. and Boel, R.K. and Blondia, C.",Martix Geometric Analysis of Discrete Time Queues with Batch Arrivals and Batch Departures with Applications to B-ISDN,1999,itc16
+141,"Villen-Altamirano, M. and Sanchez-Canabate, M.F.",A Tight Admission Control for Stream Traffic Based on Measurements,1999,itc16
+142,"Urvoy, Guillaume and Dallery, Yves and Hebuterne, Gerard",Delay-Constrained VBR Sources in a Network Environment,1999,itc16
+143,"Tutschku, K. and Tran-Gia, P. and Heuler, M.",A Framework for Spatial Traffic Estimation and Characterization in Mobile Communication Network Design,1999,itc16
+144,"Tryfonas, C. and Varma, A. and Varma, S.",Efficient Algorithms for Computation of the Burstiness Curve of Video Sources,1999,itc16
+145,"Tissainayagam, D. and Everitt, D.",A New Combinatorial Approach to the State Space of Cellular Mobile Communication Systems,1999,itc16
+146,"Sun, Yong and Gu, Jun and Tsang, Danny H.K.",Routing and Wavelength Assignment in All-Optical Networks with Multicast Traffic,1999,itc16
+147,"Stasiak, M. and Glabowski, M.",Point-to-Point Blocking Probability in Switching Networks with Reservation,1999,itc16
+148,"Starobinski, David and Sidi, Moshe",Modeling and Analysis of Heavy-Tailed Distributions via Classical Teletraffic Methods,1999,itc16
+149,"Siris, Vasilios and Songhurst, David J. and Stamoulis, George D. and Stoer, Mechthild",Usage-Based Charging Using Effective Bandwidths: Studies and Reality,1999,itc16
+150,"Semret, Nemo and Lazar, Aurei A.",Spot and Derivative Markets in Admission Control,1999,itc16
+151,"Schwefel, H.-P. and Lipsky, L.","Performance Results for Analytic Models of Traffic in Telecommunication Systems, Based On Multiple ON-OFF Sources with Self-similar Behavior",1999,itc16
+152,"Saito, Hiroshi",Bandwidth Management in AAL2 Networks,1999,itc16
+153,"Rumsewicz, Michael",Load Control and Load Sharing for Heterogeneous Distributed Systems,1999,itc16
+154,"Reyes-Lecouna, A. and Gonzales-Parada, E. and Casilari, E. and Casasola, J.C. and Diaz-Estrella, A.",A Page-Oriented WWW Traffic Model for Wireless System Simulations,1999,itc16
+155,"Remiche, Marie-Ange and Leibnitz, Kenji",Adaptive Soft-Handoff Thresholds for CDMA Systems with Spatial Traffic,1999,itc16
+156,"Reeser, P.K. and van der Mei, R.D. and Hariharan, R.",An Analytic Model of a Web Server,1999,itc16
+157,"Ramaswami, V.",Matrix Analytic Methods for Stochastic Fluid Flows,1999,itc16
+158,"Rajaratnam, M. and Takawira, F.",Performance Analysis of Highway Cellular Networks Using Generalised Arrival and Generalised Service Time Distributions,1999,itc16
+159,"Roughan, Matthew and Veitch, Darryl",A Study of the Daily Variation in the Self-Similarity of Real Data Traffic,1999,itc16
+160,"Roughan, M. and Pearce, C.E.M.",Analysis of a Hysteretic Overload Control,1999,itc16
+161,"Rose, O.",A Memory Markov Chain Model for VBR Traffic with Strong Positive Correlations,1999,itc16
+162,"Privalov, Aleks and r and Sohraby, Khosrow",Loss-free Smoothing of Flows in Feed-Forward CBR Networks,1999,itc16
+163,"Proestaki, A. and Sinclair, M.C.",Interconnection Strategies for Dual-Homing Multi-Ring Networks,1999,itc16
+164,"Pioro, Michal and Szczesniak, Michal",Design of Multi-Layer Robust Telecommunication Networks: Cost Analysis of Protection Mechanisms Using Lagrangean Relaxation,1999,itc16
+165,"Pack, Charles D.",Yield Management of an Expert-Based Consulting Company: Simple Traffic Models,1999,itc16
+166,"Oueslati-Boulahia, S. and Oubagha, E.",An Approach to Routing Elastic Flows,1999,itc16
+167,"Osl and Per-Oddvar and Emstad, Peder J.",Performance Evaluation of Load Scheduling Policies for Intelligent Networks,1999,itc16
+168,"Orenstein, P.",A Preliminary Analysis of Work-At-Home Traffic Characteristics,1999,itc16
+169,"Nunez-Queija, Rudesindo and van den Berg, Hans and jes, Michel",Performance Evaluation of Strategies for Integration of Elastic and Stream Traffic,1999,itc16
+170,"Nilsson, A.A. and Perry, M. and Gersht, A. and Iversen, V.B.",On Multi-Rate Erlang-B Computations,1999,itc16
+171,"Neame, Timothy D. and Zukerman, Moshe and Addie, Ronald G.",Applying Multiplexing Characterization to VBR Video Traffic,1999,itc16
+172,"Murta, Cristina Duarte and Almeida, Virgilio F. and Meira, Wagner Jr.",Efficient Storage Management in World Wide Web Caches,1999,itc16
+173,"Murphy, S. and Botvich, D.D. and Curran, T.",Traffic Partitioning Using Algorithmic Mechanisms for Cost Analysis,1999,itc16
+174,"Mukherji, Arijit and Ghosal, Dipak",Impact of Background Traffic on the Effectiveness of FEC for Packet Audio over Internet,1999,itc16
+175,"van der Mei, R.D.",Waiting-Time Distributions in Polling Systems in Heavy Traffic,1999,itc16
+176,"Meddeb, Aref and Girard, Andre and Rosenberg, Catherine",Tree Selection Heuristic for Network Design with Point-to-Multipoint Communications,1999,itc16
+177,"Meddeb, Aref and Girard, Andre and Rosenberg, Catherine",Tree Selection Heuristic for Point-to-Multipoint Call Routing in Telecommunication Networks,1999,itc16
+178,"Massoulie, L. and Roberts, J.W.",Arguments in Favour of Admission Control for TCP Flows,1999,itc16
+179,"Masip-Torne, J. and Sole-Pareta, J. and Borgione, S. and Bostica, B. and Burzio, M.",Providing Differentiated Service Categories in Optical Packet Networks,1999,itc16
+180,"Monin, Wei and Gravey, Annie",Intelligent Credit Management for a Credit Based Congestion Control Procedure,1999,itc16
+181,"Models for Measurement-Based Admission Control, Conservative",Conservative Models for Measurement-Based Admission Control,1999,itc16
+182,"Luengo-Patrocinio, J.C. and Czinkoczky, A. and Fern and ez Cuesta, F.",Bit Error Tolerance Analysis of CCSS\#7: The Link Oscillation Problem,1999,itc16
+183,"Liu, D. and Huebner, F. and Levy, Y.",A Hierarchical Multi-Class Traffic Model for Data Networks,1999,itc16
+184,"Lindberger, Karl","Balancing Quality of Service, Pricing and Utilisation in Multiservice Networks with Stream and Elastic Traffic",1999,itc16
+185,"Liotopoulos, Fotios K.","A Modular, 160 Gbps ATM Switch Architecture for Multimedia Network Support, Based on a 3-Stage Clos Network",1999,itc16
+186,"Li, Mingxing and Fitzpatrick, Gordon and Vaughan, Brian",Performance of Connection Caching for Setup Rate Reduction,1999,itc16
+187,"Lemaire, Vincent and Clerot, Fabrice",Estimation of the Blocking Probabilities in an ATM Network Node Using Artificial Neural Networks for Connection Admission Control,1999,itc16
+188,"Lassila, P.E. and Virtamo, J.T.",Efficient Importance Sampling for Monte Carlo Simulation of Loss Systems,1999,itc16
+189,"Larsson, Sven Olof and Arvidsson, Ake",An Adaptive Local Method for VPC Capacity Management,1999,itc16
+190,"Lanning, Steve and Massey, William A. and Rider, Brian and Wang, Qiong",Optimal Pricing in Queueing Systems with Quality of Service Constraints,1999,itc16
+191,"Low, Steven H.",Optimization Flow Control with On-line Measurements,1999,itc16
+192,"Lodge, Fiona and Botvich, Dmitri and Curran, Thomas",Using Revenue Optimisation for the Maximisation of Intelligent Network Performance,1999,itc16
+193,"Kunniyur, Srisankar and Srikant, R.",Fairness of Congestion Avoidance Schemes in Heterogeneous Networks,1999,itc16
+194,"Krieger, Udo R. and Savoric, Michael",Performance Evaluation of Handover Protocols for Data Communication in a Wireless ATM Network,1999,itc16
+195,"Kirkby, P.A. and Kadengal, R. and Midwinter, J.E. and Middiscombe, M.D. and Carroll, J.E. and Sabesan, S.",The Use of Economic and Control Theory Analogies in the Design of Policy Based Dynamic Resource Controlled (DRC) Network Architectures,1999,itc16
+196,"Kihl, Maria and Widell, Niklas and Nyberg, Christian",Load Balancing Algorithms for TINA Networks,1999,itc16
+197,"Karvo, Jouni and Aalto, Samuli",Average Signalling Load for Multicast Group Management,1999,itc16
+198,"Kara, M. and Rahin, M.A.",Comparison of Service Disciplines in ATM Networks Using a Unified QoS Metric,1999,itc16
+199,"Kang, Koohong and Steyaert, Bart and Kim, Cheeha",Service Separation in ATM Networks Using A Hardware Efficient Rate-Controlled Cell Multiplexer,1999,itc16
+200,"Kaario, K. and Raatikainen, P.",Sharing of Payload Capacity in a Multimedia Switching Bus,1999,itc16
+201,"Jutrisa, Ivan and Diamond, Neil and Cerone, Pietro",Frame Size Effects on Throughput and Return Traffic in Reliable Satellite Broadcast Transmission,1999,itc16
+202,"Jerkins, J.L. and Neidhardt, A.L. and Wang, J.L. and Erramilli, A.",Operations Measurements for Engineering Support of High-Speed Network with Self-Similar Traffic,1999,itc16
+203,Jakob and Ernst,Reinforcement Learning for Control of Self-Similar Call Traffic in Broadband Networks,1999,itc16
+204,"Jakobs, Kai",Some Aspects of the Economics of Standardisation - What a Non-Economist Might Find Interesting,1999,itc16
+205,"Ip, Wah-Hing and Marshall, Alan",Analysis and Simulation of Management Traffic in an SDH Network,1999,itc16
+206,"Hurley, Paul and le Boudec, Jean-Yves and Thiran, Patrick",A Note on the Fairness of Additive Increase and Multiplicative Decrease,1999,itc16
+207,"Herzberg, Meir and Shleifer, Felix",Optimization Models for the Design of Bi-Directional Self-Healing Ring Based Networks,1999,itc16
+208,"Henggeler Antunes, C. and Craveirinha, J. and Climaco, J. and Barrico, C.",A Multiple Objective Routing Algorithm for Integrated Communication Networks,1999,itc16
+209,"Heiss, Herbert",QoS Results for the GFR ATM Service,1999,itc16
+210,"Hebuterne, Gerard and Wei, Qin",Delay and Resequencing Issues in Deflection Networks,1999,itc16
+211,"He, JiaFu and Sohraby, Khosrom",End-o-End Analysis of CBR Tandem Networks Using Ballot Theorems,1999,itc16
+212,"Hartleb, Franz and Henneberger, Hubert",Analysis of the Multiplexing Gain of Non Real Time ATCs with TCP/IP Traffic,1999,itc16
+213,"van Houdt, B. and Blondia, C. and Casals, O. and Garcia, J. and Vazquez, D.",A MAC Protocol for Wireless ATM Systems Supporting the ATM Service Categories,1999,itc16
+214,"Hosein, P.",Overload Control for Real-Time Telecommunication Databases,1999,itc16
+215,"Gurewitz, Omer and Sidi, Moshe and Cidon, Israel",The Ballot Theorem Strikes Again: Packet Loss Process Distribution,1999,itc16
+216,"Guillemin, Fabrice and Boyer, Jacqueline and Boyer, Pierre and Dugeon, Olivier and Mangin, Christophe",Regulation of TCP Over ATM via Cell Spacing,1999,itc16
+217,"Gloss, B. and Sigle, R. and Weiss, U.",On the Stability of the Contention Mechanism of PRMA++,1999,itc16
+218,"Girard, Andre",Synthesis Models for Packet-Switched Networks with QoS Constraints,1999,itc16
+219,"Gibbens, R.J. and Teh, Y.C.",Critical Time and Space Scales for Statistical Multiplexing in Multiservice Networks,1999,itc16
+220,"Gibbens, R.J. and Kelly, F.P.",Distributed Connection Acceptance Control for a Connectionless Network,1999,itc16
+221,"Ghani, Nasir",Enhanced TCP/IP ACK Pacing for High Speed Networks,1999,itc16
+222,"Fukuda, Kentarou and Wakamiya, Naoki and Murata, Masayuki and Miyahara, Hideo",QoS Guarantees Based on End-to-End Resource Reservation for Real-Time Video Communications,1999,itc16
+223,"Fujita, Yasuyuki and Murata, Masayuki and Miyahara, Hideo",Performance Modeling and Evaluation of Web Systems with Proxy Caching,1999,itc16
+224,"Fiedler, Markus and Addie, Ron G.",Verification and Application of a Second-Order Scale Symmetry for Queueing Systems,1999,itc16
+225,"Folkestad, Arne and Emstad, Peder J.",An Equivalence Method for Approximating the Output Processes from Leaky Buckets,1999,itc16
+226,"Ehrenberger, Ulrich and Leibnitz, Kenji",Impact of Clustered Traffic Distributions in CDMA Radio Network Planning,1999,itc16
+227,"Dziong, Zbigniew and Jia, Ming",Adaptive Connection Admission for Forward Link in CDMA Wireless Access Networks,1999,itc16
+228,"Dahlberg, T.A. and Jung, J.",Load Sharing Protocols for Radio-Level Resilience,1999,itc16
+229,"Cwilich, Sebastian and Deng, Mei and Houck, David J. and Lynch, David F.",An LP-Based Approach to Restoration Network Design,1999,itc16
+230,"Cinkler, Tibor and Laborczi, Peter and Horvath, Akos",Protection through Thrifty Configuration,1999,itc16
+231,"Chlebus, Edward and Zbiezek, Tomasz and Ludwin, Wieslaw",Analysis of Channel Holding Time in Wireless Mobile Systems: Does the Probability Distribution of Cell Residence Time Matter?,1999,itc16
+232,"Chiu, Angela L. and Mang, Xiaowen",A State Dependent Dynamic Triggering Scheme for Flow-Based QoS Shortcuts,1999,itc16
+233,"Chevalier, F. and Cotter, D. and Harle, D.",Routing and Fairness Issues Associated with a Self Routing Control Strategy in Regular Mesh Photonic Networks,1999,itc16
+234,"Chan, Sammy and Zukerman, Moshe and Wong, Eric W.M. and Ko, K.T. and Yeung, Edmund",A Simple and Effective Framework for Controlling ABR Traffic,1999,itc16
+235,"Chan, K.S. and Chan, Sammy and Ko, K.T.",A Fault Tolerant Multicast ATM Switch with Enhanced Performance,1999,itc16
+236,"Chamberl and Steven and Sanso, Brunilde",Update of Two-Level Networks with Modular Switches,1999,itc16
+237,"Choudhury, S. and Berry, L.T.M.","Two Methods for Minimum Cost Synthesis of Link-Disjoint, Hop-Limited Virtual Paths in ATM Networks",1999,itc16
+238,"Ch and ramouli, Y. and Krishnan, K.R.",Signaling Network Impact of Local Number Portability,1999,itc16
+239,"Casilari, E. and Reyes, A. and Diaz-Estrella, A. and S and oval, F.",Classification and Comparison of Modelling Strategies for VBR Video Traffic,1999,itc16
+240,"Casetti, C. and Favalessa, G. and Mellia, M. and Munafo, M.",An Adaptive Routing Algorithm for Best-Effort Traffic in Integrated-Service Networks,1999,itc16
+241,Carmelita and Oliver,Simulating Rare Event Details of ATM Delay Time Distributions with RESTART/LRE,1999,itc16
+242,"Caglar, Mine and Krishnan, K.R. and Saniee, Iraj",Estimation of Traffic Parameters in High-Speed Data Networks,1999,itc16
+243,"Cao, Jiantong and Liang, Xiongjian",Engineering Economic Analysis of Access Networks in China,1999,itc16
+244,"Courcoubetis, Costas A. and Reiman, Martin I.",Pricing in a Large Single Link Loss System,1999,itc16
+245,"Costeux, Jean-Laurent",Fluid Analysis of a TCP Connection Over ABR,1999,itc16
+246,"Cope, Graham and Garnham, Nigel",QoS Control and Interworking of Overbooked Elastic and Brittle ATM Traffic,1999,itc16
+247,"Cohen, Edward E. and Fredericks, Albert A. and Pack, Charles D.",The Internet \& The Public Switched Telephone Network - A Troubled Marriage,1999,itc16
+248,"Berger, Arthur and Kogan, Yaakov",Multi-Class Elastic Data Traffic: Bandwidth Engineering Via Asymptotic Approximations,1999,itc16
+249,"Barcelo, Francisco and Jordan, Javier",Channel Holding Time Distribution in Public Cellular Telephony,1999,itc16
+250,"Bakshi, Y. and Skoog, R.A.",Call Distribution in a Non-Homogeneous Distributed Switching System,1999,itc16
+251,"Boxma, O.J. and Cohen, J.W. and Deng, Q.",Heavy-Traffic Analysis of the M/G/1 Queue with Priority Classes,1999,itc16
+252,"le Boudec, Jean-Yves and Verscheure, Olivier",Optimal Smoothing for Guaranteed Service,1999,itc16
+253,"Borst, Sem and Boxma, Onno and Jelenkovic, Predrag",Generalized Processor Sharing with Long-Tailed Traffic Sources,1999,itc16
+254,"Borst, Sem and Boucherie, Richard J. and Boxma, Onno J.",ERMR: A Generalised Equivalent Random Method for Overflow Systems with Repacking,1999,itc16
+255,"Bolotin, V.A. and Levy, Y. and Liu, D.",Characterizing Data Connection and Messages by Mixtures for Distribution on Logarithmic Scale,1999,itc16
+256,"Bolotin, V. and Coombs-Reyes, J. and Heyman, D. and Levy, Y. and Liu, D.",IP Traffic Characterization for Planning and Control,1999,itc16
+257,"Ash, Gerald R. and Chen, Jiayu and Fishman, Saul D. and Maunder, Anurag S.",Routing Evolution in Multiservice Integrated Voice/Data Networks,1999,itc16
+258,"Arvidsson, Ake and Karlsson",On Traffic Models for TCP/IP,1999,itc16
+259,"Arvidsson, Ake and Jennings, Brendan and Angelin, Lars and Svensson, Magnus",On the Use of Agent Technology for IN Load Control,1999,itc16
+260,"Arijs, P. and Pickavet, M. and Nelissen, N. and V and erdonckt, S. and Demeester, P.",Design of a Hybrid Ring-Tree Architecture for Optical Access Networks,1999,itc16
+261,"Apostolopoulos, George and Guerin, Roch and Kamat, Sanjay and Tripathi, Satish K.",Improving QoS Routing Performance Under Inaccurate Link State Information,1999,itc16
+262,"Andreassen, R. and Stoer, M.",On-Line Traffic Contract Renegotiation for Aggregated Traffic,1999,itc16
+263,"Al-Hammadi, Arif and Schormans, John",Access Flow Control Scheme for ATM Networks Using Linear Prediction Approach,1999,itc16
+264,"Akyamac, Ahmet A. and Haraszti, Zsolt and Townsend, J. Keith",Efficient Rare Event Simulation Using DPR for Multidimensional Parameter Spaces,1999,itc16
+265,"Addie, Ron and Mannersalo, Petteri and Norros, Ilkka",Performance Formulae for Queues with Gaussian Input,1999,itc16
+266,"jes, Michel and van Foreest, Nicky",Aspects of Pricing in an Integrated Service Network,1999,itc16
+267,"Leão, Rosa M.M. and de Souza e Silva, Edmundo and Diniz, Morganna C.",Traffic engineering using reward models ,2001,itc17
+268,"Sridharan, A. and Bhattacharyya, S. and Diot, C. and Guérin, R. and Jetcheva, J. and Taft, N.",On the impact of aggregation on the performance of traffic aware routing ,2001,itc17
+269,"Kalyanasundaram, Suresh and Chong, Edwin K.P. and Shroff, Ness B.",Optimal resource allocation in multiclass networks with user-specified utility functions ,2001,itc17
+270,"Leelahakriengkrai, Rangsan and Agrawal, Rajeev",Scheduling in multimedia wireless networks ,2001,itc17
+271,"Menth, Michael",A scalable protocol architecture for end-to-end signaling and resource reservation in \{IP\} networks ,2001,itc17
+272,"Mannersalo, Petteri and Norros, Ilkka",Approximate formulae for Gaussian priority queues ,2001,itc17
+273,"Dolzer, K. and Gauger, C.",On burst assembly in optical burst switching networks—A performance evaluation of just-enough-time ,2001,itc17
+274,"Athuraliya, S. and Li, V.H. and Low, S.H. and Yin, Q.",REM: Active queue management ,2001,itc17
+275,"Johansson, N. and Körner, U. and Tassiulas, L.",A distributed scheduling algorithm for a bluetooth scatternet ,2001,itc17
+276,"Boujelben, Yassine and Girard, André and Gregoire, Jean-Charles",Ring-based ordering for multipoint-to-multipoint communications ,2001,itc17
+277,"Park, Kihong and Tuan, Tsunyi",Multiple time scale TCP: Harnessing proactivity in self-similar burstiness ,2001,itc17
+278,"Zaim, A. Halim and Rouskas, George N. and Perros, Harry G.",Computing call blocking probabilities in \{LEO\} satellite networks: The single orbit case ,2001,itc17
+279,"Busson, A. and Rougier, J-L and Kofman, D.",Analysis and optimization of hierarchical reliable transport protocols ,2001,itc17
+280,"Yang, Jiangbin and Lambadaris, Ioannis",Effective bandwidths for \{TES\} processes ,2001,itc17
+281,"Schüler, J. and Gruhl, S. and Schwabe, T. and Schweigel, M.",Performance improvements for \{TCP\} in mobile networks with high packet delay variations ,2001,itc17
+282,"Huang, Leping and Sezaki, Kaoru",Adjustment on end-to-end delay to remove the distortion caused by \{NTP\} clock adjustment ,2001,itc17
+283,"Laskin, N. and Lambadaris, I. and Harmantzis, F.C. and Devetsikiotis, M.",Fractional lévy motion and its application to network traffic modeling ,2001,itc17
+284,"Markovitch, Natalia M. and Krieger, Udo R.",The estimation of heavy-tailed probability density functions and their mixtures ,2001,itc17
+285,"Penttinen, Aleksi and Virtamo, Jorma",Robust adaptive capacity allocation algorithm ,2001,itc17
+286,"Vleeschauwer, D De and Moffaert, A. Van and Büchli, M.J.C. and Janssen, J. and Petit, G.H. and Steyaert, B. and Bruneel, H.",Determining the tolerable load generated by a set of packet-based phones on a multiplexing node ,2001,itc17
+287,"Lubacz, J. and Tomaszewski, A.",A systematic approach to network planning ,2001,itc17
+288,"Karvo, Jouni and Aalto, Samuli and Virtamo, Jorma",Blocking probabilities of two-layer statistically indistinguishable multicast streams ,2001,itc17
+289,"Altman, Eitan and Azouzi, Rachid El and Pourtallier, Odile",Avoiding paradoxes in routing games ,2001,itc17
+290,"Viken, Brynjar and Emstad, Peder J.",Accuracy of intrusive measurements of the waiting time in an M/G/1/8 queue ,2001,itc17
+291,"Jelenkovic, Predrag and Momcilovic, Petar",Network multiplexer with generalized processor sharing and heavy-tailed on-off flows ,2001,itc17
+292,"Vendictis, A. De and Baiocchi, A.",Wavelet based synthetic generation of internet packet delays ,2001,itc17
+293,"Charzinski, Joachim",Measured \{HTTP\} performance and fun factors ,2001,itc17
+294,"Fernandez, Marcial P. and de C.P. Pedroza, Aloysio and Rezende, José F.",Quality of service in a DiffServ domain using policy-based management ,2001,itc17
+295,"Sato, Shohei and Kobayashi, Kazutomo and Pan, Huanxu and Tartarelli, Sandra and Banchs, Albert",Configuration rule and performance evaluation for DiffServ parameters ,2001,itc17
+296,"Malouch, Naceur M. and Liu, Zhen",On steady state analysis of \{TCP\} in networks with differentiated services ,2001,itc17
+297,"Kaj, Ingemar and Olsén, Jörgen",Throughput modeling and simulation for single connection TCP-Tahoe ,2001,itc17
+298,"Reeser, P.",Using stress test results to drive performance modeling: A case study in “Gray-Box” vendor analysis ,2001,itc17
+299,"da Fonseca, Nelson L.S. and Rubinsztejn, Hana K.",Dimensioning the capacity of interactive video servers ,2001,itc17
+300,"Vojnovic, Milan and Boudec, Jean-Yves Le",Some observations on equation-based rate control ,2001,itc17
+301,"Schwefel, H.-P. and Lipsky, L. and Jobmann, M.",On the necessity of transient performance analysis in telecommunication networks ,2001,itc17
+302,"Leibnitz, Kenji and Krauß, Armin",Performance evaluation of interference and cell loading in \{UMTS\} networks ,2001,itc17
+303,"Christensen, Thomas Kaare and Nielsen, Bo Friis and Iversen, Villy B?k",Distribution of channel holding times in cellular communication systems ,2001,itc17
+304,"Jennings, Brendan and ke Arvidsson and Curran, Thomas","A token-based strategy for co-ordinated, profit-optimal control of multiple \{IN\} resources ",2001,itc17
+305,"Shakkottai, Sanjay and Stolyar, Alexander L.",Scheduling algorithms for a mixture of real-time and non-real-time data in \{HDR\} ,2001,itc17
+306,"Elizondo-Armengol, Antonio J.",TCP-friendly policy functions: Capped leaky buckets ,2001,itc17
+307,"Dupuis, Alain and Guillemin, Fabrice and Robert, Philippe",Modeling max-min fairness for elastic flows in telecommunication networks ,2001,itc17
+308,"de Morais Cordeiro, Carlos and Sadok, Djamel F.H. and Kelner, Judith",An in-depth evaluation of bluetooth ad hoc networks ,2001,itc17
+309,"Yang, Jiangbin and Devetsikiotis, Mihail","On-line estimation, network design and performance analysis with effective bandwidths ",2001,itc17
+310,"Borst, Sem and Boxma, Onno and van Uitert, Miranda",Two coupled queues with heterogeneous traffic ,2001,itc17
+311,"Kar, K. and Sarkar, S. and Tassiulas, L.",Optimization based rate control for multipath sessions ,2001,itc17
+312,"de Souza, Jorge Moreira and da Fonseca, Nelson L.S. and de Souza e Silva, Edmundo A.",Preface: “Teletraffic engineering in the internet era” ,2001,itc17
+313,"Fredj, S. Ben and Oueslati-Boulahia, S. and Roberts, J.W.",Measurement-based admission control for elastic traffic ,2001,itc17
+314,"Rakocevic, Veselin and Griffiths, John and Cope, Graham",Performance analysis of bandwidth allocation schemes in multiservice \{IP\} networks using utility functions ,2001,itc17
+315,"Sarker, Jahangir H. and Halme, Seppo J.",Slowly decreasing throughput algorithms for random access channel ,2001,itc17
+316,"DaSilva, Luiz A. and Dham, Vikram and Phanse, Kaustubh and Kidambi, Kalyan",Traffic management for voice/data convergence in \{ADSL\} ,2001,itc17
+317,"Fodor, Gábor and Malicskó, Gábor and Pióro, Michal and Szymanski, Tomasz",Path optimization for elastic traffic under fairness constraints ,2001,itc17
+318,"Zimmermann, S. and Hamann, T. and Killat, U.",Dynamics of different congestion pricing strategies ,2001,itc17
+319,"pontes, R. and Coelho, R.",The scaling characteristics of the video traffic and its impact on acceptance regions ,2001,itc17
+320,"Bonald, T. and Proutière, A. and Régnié, G. and Roberts, J.W.",Insensitivity results in statistical bandwidth sharing ,2001,itc17
+321,"Brennan, Rob and Curran, Thomas",\{SCTP\} congestion control: Initial simulation studies ,2001,itc17
+322,"van der Mei, R.D.",Polling Systems with correlated arrivals ,2001,itc17
+323,"de Miranda, M.N. and Lima, R.N.B. and Pedroza, A.C.P. and Filho, A.C. Mesquita",HW/SW codesign of protocols based on performance optimization using genetic algorithms ,2001,itc17
+324,"Roughan, Matthew and Erramilli, Ashok and Veitch, Darryl",Network performance for \{TCP\} networks Part I: Persistent sources ,2001,itc17
+325,"McArdle, Conor and Curran, Thomas","Optimal object placement, load distribution and load control for distributed telecommunication service applications ",2001,itc17
+326,"Heyman, Daniel and Lucantoni, David",Modeling multiple \{IP\} traffic streams with rate limits ,2001,itc17
+327,"ke Arvidsson and Roughan, Matthew and Rydén, Tobias",On the origins of long-range dependence in \{TCP\} traffic ,2001,itc17
+328,"Pióro, M. and Jüttner, A. and Harmatos, J. and Szentesi, Á. and Gajowniczek, P. and Mys?ek, A.",Topological design of telecommunication networks Nodes and links localization under demand constraints ,2001,itc17
+329,"Dube, Parijat and Altman, Eitan",On the workload process in a fluid queue with bursty input and selective discarding ,2001,itc17
+330,"Ziviani, A. and de Rezende, J.F. and Duarte, O.C.M.B. and Fdida, S.",Evaluating voice traffic in a differentiated services environment ,2001,itc17
+331,"Mathar, R. and Remiche, M.-A.",On the outage probability in \{CDMA\} cellular networks with adaptive antennas ,2001,itc17
+332,"Gall, Pierre Le",Local queue in single link packet switched networks with variable packet lengths ,2001,itc17
+333,"Barceló, Francisco",Comparison of handoff resource allocation strategies through the state-dependent rejection scheme ,2001,itc17
+334,"Boukhatem, L. and Beylot, A.L. and Gaïti, D. and Pujolle, G.",Channel assignment with handover queuing in \{LEO\} satellite systems based on an “earth-fixed cell” coverage ,2001,itc17
+335,"Ohsaki, Hiroyuki and Murata, Masayuki and Miyahara, Hideo",Modeling end-to-end packet delay dynamics of the internet using system identification ,2001,itc17
+336,"Pióro, M. and Szymanski, T.",Basic reconfiguration options in multi-layer robust telecommunication networks — design and performance issues ,2001,itc17
+337,"Li, Chengzhi and Knightly, Edward W.",Schedulability criterion and performance analysis of coordinated schedulers ,2001,itc17
+338,"Dziong, Zbigniew and Bharath, Ramana and Samadi, Behrokh",Model for location mobility area design ,2001,itc17
+339,"Nuzman, Carl and Saniee, Iraj and Sweldens, Wim and Weiss, Alan",A compound model for \{TCP\} connection arrivals: Empirical study within a general framework ,2001,itc17
+340,"Mitra, Debasis and Ramakrishnan, K.G. and Wang, Qiong",Combined economic modeling and traffic engineering: Joint optimization of pricing and routing in multi-service networks ,2001,itc17
+341,"Courcoubetis, Costas and Dramitinos, Manos P. and Stamoulis, George D.",An auction mechanism for bandwidth allocation over paths ,2001,itc17
+342,"Ben-Ameur, W. and Besiktasliyan, S. and Decocq, B.",Optimal dimensioning of a ring ,2001,itc17
+343,"Sarkar, Saswati and Tassiulas, Leandros",Scheduling for quality of service based service differentiation ,2001,itc17
+344,"Hämäläinen, Timo and Wallenius, Eero",Case study for 3G/UMTS services and billing methods ,2001,itc17
+345,"Reichl, Peter and Stiller, Burkhard",Edge pricing in space and time: Theoretical and practical aspects of the cumulus pricing scheme ,2001,itc17
+346,"He, JiaFu and Sohraby, Khosrow",A combinatorial solution of discrete time multi-server queueing systems with Markov sources ,2001,itc17
+347,"Xie, M. and Bensaou, B. and Chua, K.C.",Stochastic bounds in a \{GPS\} system fed by two leaky bucket regulated on-off sources ,2001,itc17
+348,"Carpenter, Tami and Krishnan, K.R. and Shallcross, David",Enhancements to traffic engineering for multi protocol label switching ,2001,itc17
+349,"Kuusela, P. and Lassila, P. and Virtamo, J.",Stability of TCP-RED congestion control ,2001,itc17
+350,"Hwang, Junseok",A scalable dynamic provisioning mechanism for IntServ-DiffServ networks for guaranteed services ,2001,itc17
+351,"Cavendish, D. and Goudreau, M. and Ishii, A.",On the fairness of scheduling algorithms for input-queued switches ,2001,itc17
+352,"Hartmann, Harro L.",Engineering and routing of connection-oriented multirate reference networks ,2001,itc17
+353,"Olivier, P. and Benameur, N.",Flow level \{IP\} traffic characterization ,2001,itc17
+354,"Gama, Gustavo and Jr., Wagner Meira and Carvalho, Márcio Bunte and Guedes, Dorgival",Traffic-aware distribution of e-commerce services ,2001,itc17
+355,"Pan, Ping and Schulzrinne, Henning",Processing overhead studies in resource reservation protocols ,2001,itc17
+356,"Ehrlich, W.K. and Hariharan, R. and Reeser, P.K. and van der Mei, R.D.",Performance of Web servers in a distributed computing environment ,2001,itc17
+357,"Liu, E. and Schormans, J. and Cuthbert, L. and Phillips, C. and Stoneley, G.",Application of neural networks to accelerated simulation of internet type \{WANs\} ,2001,itc17
+358,"Scoglio, C. and Anjali, T. and de Oliveira, J.C. and Akyildiz, I.F. and Uhl, G.",A new threshold-based policy for label switched path (LSP) set-up in \{MPLS\} networks ,2001,itc17
+359,"Agrawal, Rajeev and Bedekar, Anand and La, Richard J. and Subramanian, Vijay",Class and channel condition based weighted proportional fair scheduler ,2001,itc17
+360,"Chahed, T. and Hébuterne, G. and Pujolle, G.",Mapping of performance metrics between intserv and \{ATM\} ,2001,itc17
+361,"Fekete, A. and Vattay, G. and Veres, A.",Improving the law for single and parallel \{TCP\} flows ,2001,itc17
+362,"Urvoy-Keller, Guillaume and Hébuterne, Gérard",Guaranteeing deterministic QoS in a multipoint-to-point network ,2001,itc17
+363,"Galmés, S.",Analysis of the (batch-on/off)/D/1 queue ,2001,itc17
+364,"Altman, Eitan and Avrachenkov, Kostia and Barakat, Chadi and Núñez-Queija, Rudesindo",\{TCP\} modeling in the presence of nonlinear window growth ,2001,itc17
+365,"Emstad, Peder J. and Osland, Per-Oddvar",Dynamic load balancing in a two-server system ,2001,itc17
+366,"Kim, Bara and Sohraby, Khosrow",On the tail behavior of queues with discrete autoregressive arrivals ,2003,itc18
+367,"Pan, Huanxu and Sato, Shohei and Kobayashi, Kazutomo",On the throughput of an IEEE802.11a Wireless {LAN} system with terminals under heterogeneus radio conditions ,2003,itc18
+368,"Key, Peter and MassouliÃ©, Laurent and Bain, Alan and Kelly, Frank",A network flow model for mixtures of file transfers and streaming traffic ,2003,itc18
+369,"Garcia, J.M. and Rachdi, A. and Brun, O.",Optimal {LSP} placement with QoS constraints in DiffServ/MPLS networks ,2003,itc18
+370,"La, R.J. and Ranjan, P. and Abed, E.H.",Analysis of adaptive random early detection (ARED) ,2003,itc18
+371,"Denteneer, Dee and van Leeuwaarden, Johan and Resing, Jacques",Bounds for a discrete-time multi-server queue with an application to cable networks ,2003,itc18
+372,"Fiedler, Markus and Tutschku, Kurt and Carlsson, Patrik and Nilsson, Arne",Identification of performance degradation in {IP} networks using throughput statistics ,2003,itc18
+373,"Deng, Xidong and Yi, Sungwon and Kesidis, George and Das, Chita R.","Class-based stabilized virtual buffer-an {AQM} scheme with stability, fairness and QoS assurance ",2003,itc18
+374,"Köhler, Stefan and Binzenhöfer, Andreas",{MPLS} traffic engineering in {OSPF} networks-A combined approach,2003,itc18
+375,"Battaglia, Lorenzo and Killat, Ulrich",QoS in integrated services based {IP} networks: The solution to the peak rate policing issue ,2003,itc18
+376,"Akar, N. and Sahin, C.",Dynamic capacity provisioning in virtual path-based networks using reinforcement learning ,2003,itc18
+377,"Azouzi, Rachid El and Altman, Eitan and Wynter, Laura",Telecommunications network equilibrium with price and quality-of-service characteristics ,2003,itc18
+378,"Yeo, B.S. and Turner, L.F.",A gateway location algorithm for hybrid satellite and terrestrial communication networks ,2003,itc18
+379,"Moscholios, I.D. and Nikolaropoulos, P.I. and Logothetis, M.D.",Call level blocking of ON-OFF traffic sources with retrials under the complete sharing policy ,2003,itc18
+380,"Kilpi, Jorma",A portrait of a GPRS/GSM session ,2003,itc18
+381,"Jia, W.-J. and Wang, H.-X. and Fang, J.-C. and Zhao, W.",Delay guarantee for real-time traffic flows with high rate ,2003,itc18
+382,"Sauer, Cornelia and Daduna, Hans",Separable networks with unreliable servers ,2003,itc18
+383,"Xu, Lisong and Perros, Harry G. and Rouskas, George N.",Performance analysis of an edge optical burst switching node with a large number of wavelengths ,2003,itc18
+384,"van Foreest, Nicky and Mandjes, Michel and Scheinhardt, Werner",A versatile model for asymmetric {TCP} sources ,2003,itc18
+385,"Litjens, R. and Roijers, F. and van den Berg, J.L. and Boucherie, R.J. and Fleuren, M.J.",Performance analysis of wireless LANs: an integrated packet/flow level approach ,2003,itc18
+386,"Jean-Marie, Alain and Dube, Parijat and Artiges, Damien and Altman, Eitan",Decreasing loss probabilities by redundancy and interleaving: a queueing analysis ,2003,itc18
+387,"Jähnert, Jürgen",Cost-efficient metering and accounting in 4G networks ,2003,itc18
+388,"Broido, Andre and King, Ryan and Nemeth, Evi and Claffy, K.C.",Radon spectroscopy of packet delay,2003,itc18
+389,"Kawahara, Ryoichi",An adaptive load balancing method for multiple paths using flow statistics ,2003,itc18
+390,"Jena, Ajit K. and Popescu, Adrian and Nilsson, Arne A.",Modeling and evaluation of internet applications ,2003,itc18
+391,"Gopalakrishnan, Ganesh and Kasera, Sneha and Loader, Catherine and Wang, Xin",Robust router congestion control using acceptance and departure rate measures ,2003,itc18
+392,"Blanchy, FranÃ§ois and MÃ©lon, Laurent and Leduc, Guy",An efficient decentralized on-line traffic engineering algorithm for {MPLS} networks ,2003,itc18
+393,"Kolarov, Aleksandar and Sengupta, Bhaskar",Waveband routing and wavelength assignment in hybrid hierarchical optical networks ,2003,itc18
+394,"Liu, Zhen and Squillante, Mark S. and Xia, Cathy H. and Yu, Shun-Zheng and Zhang, Li",Profile-based traffic characterization of commercial web sites ,2003,itc18
+395,"Norros, Iikka and Reittu, Hannu","Architectural features of the power-law random graph model of Internet: notes on soft hierarchy, vulnerability and multicasting ",2003,itc18
+396,"Guo, J. and Chan, S. and Wong, E.W.M. and Zukerman, M. and Taylor, P. and Tang, K.S.",On blocking probability evaluation for video-on-demand systems ,2003,itc18
+397,"Srivastava, Shekhar and Krithikaivasan, Balaji and Medhi, Deep and PiÃ³ro, MichaÅ€",Traffic engineering in the presence of tunneling and diversity constraints: Formulation and lagrangean decomposition approach ,2003,itc18
+398,"Mitra, Debasis and Wang, Qiong",Risk-aware network profit management in a two-tier market ,2003,itc18
+399,"Akar, Nail and Sohraby, Khosrow",Algorithmic solution of finite Markov fluid queues ,2003,itc18
+400,"{Corinne Touati, Eitan Altman}, Jérôme Galtier",Semi-definite programming for bandwidth allocation in communication networks ,2003,itc18
+401,"Vaton, S. and Gravey, A.",Network tomography: an iterative Bayesian analysis ,2003,itc18
+402,"Schroeder, B. and Harchol-Balter, M.",Web servers under overload: How scheduling can help ,2003,itc18
+403,"Marbukh, V.",A scenario based framework for robust network provisioning ,2003,itc18
+404,"Kalden, Roger and Varga, TamÃ¡s and Wouters, Bianca and Sanders, Bart",Wireless service usage and traffic characteristics in {GPRS} networks ,2003,itc18
+405,"Blefari-Melazzi, N. and Daigle, J.N. and Femminella, M.",Stateless admission control for QoS provisioning for VoIP in a diffServ domain ,2003,itc18
+406,"Vendictis, Andrea De and Baiocchi, Andrea",Investigating {TCP} single source behavior in time-varying capacity network scenarios ,2003,itc18
+407,"Østerbø, Olav",Models for calculating end-to-end delay in packet networks ,2003,itc18
+408,"El-Hadidi, Mahmoud T. and Soliman, Mohamed S. and El-Soudani, Magdi S.",Traffic parameter estimation and area classification for local exchanges with application ,2003,itc18
+409,"Dumas, Vincent and Guillemin, Fabrice and Robert, Philippe",Admission control of leaky bucket regulated sources in a queueing system with priority ,2003,itc18
+410,"Elwalid, A. and Mitra, D. and Saniee, I. and Widjaja, I.",Online traffic engineering in {GMPLS} networks: From shortest-path to design-based routing ,2003,itc18
+411,"Menth, Michael and Gehrsitz, Sebastian and Milbrandt, Jens",Fair assignment of efficient network admission control budgets ,2003,itc18
+412,"Salvador, Paulo and Nogueira, AntÃ³nio and Valadas, Rui",Joint characterization of the packet arrival and packet size processes of multifractal traffic based on stochastic L-systems ,2003,itc18
+413,"Görg, Carmelita and Charzinski, Joachim and Lehnert, Ralf and Tran-Gia, Phuoc",Providing QoS in heterogeneous environments ,2003,itc18
+414,"Sun, Lingfen and Ifeachor, Emmanuel",New methods for voice quality evaluation for {IP} networks ,2003,itc18
+415,"Eitan Altman, Tania Jiménez",Simulation analysis of {RED} with short lived {TCP} connections ,2003,itc18
+416,"Biton, Erez and Orda, Ariel","QoS provision with {EDF} scheduling, stochastic burstiness and stochastic guarantees ",2003,itc18
+417,"Roughan, Matthew and Spatscheck, Oliver",What does the mean mean? ,2003,itc18
+418,"Khanna, Sanjeev and Sarkar, Saswati and Shin, Insik",An energy measurement based collision resolution protocol ,2003,itc18
+419,"Öznur Özkasap, Mine Çalar",Traffic behavior of scalable multicast: Self-similarity and protocol dependence ,2003,itc18
+420,"Saito, Hiroshi and Minami, Hiroya",Performance issues in sensor networking ,2003,itc18
+421,"Narbutt, Miroslaw and Murphy, Liam",VoIP playout buffer adjustment using adaptive estimation of network delays ,2003,itc18
+422,"Pérez-Costa, Xavier and Torrent-Moreno, Marc and Hartenstein, Hannes",A simulation study on the performance of hierarchical mobile {IPv6} ,2003,itc18
+423,"Tinnakornsrisuphap, P. and La, R.J. and Makowski, A.M.",Modeling {TCP} traffic with session dynamics-many sources asymptotics under ECN/RED gateways ,2003,itc18
+424,"Schweigel, Mathias",The cell residence time in rectangular cells and its exponential approximation ,2003,itc18
+425,"Mandjes, Michel and van Uitert, Miranda",Sample-path large deviations for tandem queues with Gaussian inputs ,2003,itc18
+426,"Kamienski, Carlos Alberto and Sadok, Djamel",Strategies for provisioning end-to-end QoS-based services in a multi-domain scenario ,2003,itc18
+427,"Hong, Dohy and Poppe, Fabrice and Reynier, Julien and Baccelli, FranÃ§ois and Petit, Guido",The impact of burstification on {TCP} throughput in optical burst switching networks ,2003,itc18
+428,"Ivanovich, M. and Hesse, M. and Fitzpatrick, P.",Paging performance in {GSM} networks: Analysis and simulation ,2003,itc18
+429,"Schopp, Michael and Viallon, JoÃ«l",Service availability in distributed network architectures: Evaluation and planning issues ,2003,itc18
+430,"Chassot, C. and Auriol, G. and Lozes, A.",QoS management protocol for an end-to-end communication architecture implemented over a differentiated {IPv6} network ,2003,itc18
+431,"Grieco, L.A. and Mascolo, S.",A mathematical model of westwood+ {TCP} congestion control algorithm ,2003,itc18
+432,"Kordybach, Krzysztof and Nousiainen, Sami",Radio resource management in WCDMA-based networks in emergency situations ,2003,itc18
+433,"Elsayed, Khaled M.F. and Ayad, Amr S. and El-Hadidi, Mahmoud T.",Evaluation of resource reservation policies for deterministic services in multi-service packet networks ,2003,itc18
+434,"Katayama, Tsuyoshi and Kobayashi, Kaori and Nakagawa, Kazuyuki",System delay analysis for a nonpreemptive time-limited service queueing system with two types of vacations and its application ,2003,itc18
+435,"Alzati, M. and Bottigliengo, M. and Casetti, C. and Mellia, M.",Fair marking of web flows using partial state information ,2003,itc18
+436,"Hendling, K. and Franzl, G. and Statovci-Halimi, B. and Halimi, A.",Residual network and link capacity weighting for efficient traffic engineering in {MPLS} networks ,2003,itc18
+437,"Houdt, B. Van and Blondia, C.",Maximum stable throughput of FS-ALOHA under delay constraints ,2003,itc18
+438,"Borst, Sem and NÃºÃ±ez-Queija, Rudesindo and Zwart, Bert",Bandwidth sharing with heterogeneous service requirements ,2003,itc18
+439,"Heck, K. and Staehle, D. and Leibnitz, K.",Macro diversity gain in {UMTS} networks with clustered user distributions ,2003,itc18
+440,"Fernandez, Marcial P. and de C.P. Pedroza, Aloysio and Rezende, JosÃ© F.",Converting QoS policy specification into fuzzy logic parameters ,2003,itc18
+441,"Srinivasa, G.N. and Vishwanath, Arun",Traffic constraints instead of traffic matrices: Capabilities of a new approach to traffic characterization ,2003,itc18
+442,"Haßlinger, Gerhard and Takes, Patricia",Real time video traffic characteristics and dimensioning regarding {QOS} demands ,2003,itc18
+443,"{Gergely Mátéfi, János Farkas}, Casaba Antal",Towards efficient call admission control in {IP} {UTRAN} ,2003,itc18
+444,"Wu, Kehang and Reeves, Douglas S.",Link dimensioning and {LSP} optimization for {MPLS} networks supporting diffserv {EF} and {BE} traffic classes ,2003,itc18
+445,"Dressler, Falko",A metric for numerical evaluation of the QoS of an internet connection ,2003,itc18
+446,"Sarkar, Saswati and Anjum, Farooq M. and Jain, Ravi",Maximizing efficiency in Bluetooth piconets using throughput optimal packet size selection (TOPS) ,2003,itc18
+447,"Jelenković, P. and Radovanović, A.",Optimizing the {LRU} algorithm for web caching ,2003,itc18
+448,"Uhlig, Steve and Bonaventure, Olivier and Quoitin, Bruno",Interdomain traffic engineering with minimal {BGP} configurations ,2003,itc18
+449,"Apostolopoulos, George",Traffic engineering in hierarchical multi-provider networks,2003,itc18
+450,"Srivastava, S. and Mitchell, K. and van de Liefvoort, A.",Correlations induced in a packet stream by background traffic in a multiplexed environment ,2003,itc18
+451,"Huang, Yaqing and Guerin, Roch and Gupta, Pranav",Supporting excess real-time traffic with active drop queue ,2003,itc18
+452,"Guérin, R. and Rank, J. and Sarkar, S. and Vergetis, E.",Forming connected topologies in bluetooth ad-hoc networksâ€”An algorithmic perspective ,2003,itc18
+453,"Riedl, Anton and Bauschert, Thomas and Frings, Jochen",On the dimensioning of voice over {IP} networks for various call admission control schemes ,2003,itc18
+454,"Altman, Eitan",A stateless approach for improving {TCP} performance using Diffserv ,2003,itc18
+455,"Huang, Qian and Chan, Sammy and Ko, King-Tim and Zukerman, Moshe",An efficient reservation-based handoff control scheme for multimedia traffic in mobile cellular networks ,2003,itc18
+456,"Takács, Attila and Császár, András and Sxabó, Róbert and Cinkler, Tibor",Thrifty traffic engineering through {CSLLS} ,2003,itc18
+457,"Sayenko, Alexander and HÃ¤mÃ¤lÃ¤inen, Timo and Siltanen, Jarmo and Joutsensalo, Jyrki",The simulation and analysis of the revenue critierion based adaptive {WFQ} ,2003,itc18
+458,"{Michael Savorić, Holger Karl}, Adam Wolisz",Selected properties of a joint congestion controller for {TCP} connections ,2003,itc18
+459,"Ayesta, U. and Avrachenkov, K.E. and Altaman, E. and Barakat, C. and Dube, P.",Multilevel approach for modeling short {TCP} sessions ,2003,itc18
+460,"Li, Frank Yong",Analysis on conformance deterioration for QoS provisioning: A stochastic approach ,2003,itc18
+461,"Samhat, A. and Chahed, T.",Performance evaluation of {IP} in the {UMTS} terrestrial radio access network ,2003,itc18
+462,"Roughan, Matthew and Greenberg, Albert and Kalmanek, Charles and Rumsewicz, Michael and Yates, Jennifer and Zhang, Yin","Experience in measuring internet backbone traffic variability: Models metrics, measurements and meaning ",2003,itc18
+463,"Ali, M. Mehmet and Song, X.",A performance analysis of a multiplexer with priority queues and correlated arrivals ,2003,itc18
+464,"Heindl, Armin and Biersack, Ernst",Hybrid performance modeling of open-loop video distribution with {VCR} functionality ,2003,itc18
+465,"Donner, Anton and Berioli, Matteo and Werner, Markus",An {MPLS} networking concept for satellite constellations ,2003,itc18
+466,"Kihl, Maria and Robertsson, Anders and Wittenmark, BjÃ¶rn",Performance modelling and control of server systems using non-linear control theory ,2003,itc18
+467,"Busson, Anthony and Kofman, Daniel and Rougier, Jean-Louis",Optimization of content delivery networks server placement ,2003,itc18
+468,"Sun, Jinsheng and Ko, King-Tim and Chen, Guanrong and Chan, Sammy and Zukerman, Moshe",Adaptive drop-tail: A simple and efficient active queue management algorithm for internet flow control ,2003,itc18
+469,"{Tamás Éltető, Péter Vaderna}, Sándor Molnár",Performance analysis of {TCP} networks loaded by web traffic ,2003,itc18
+470,"Shi Zhou, Raúl J. Mondragón",Towards modelling the internet topology-The interactive growth model,2003,itc18
+471,"Pack, Charles D.",Traffic capacity analysis for shared access networks with QoS objectives and uncertain demands ,2003,itc18
+472,"Elayoubi, S-E. and Chahed, T.",Measurement-based connection admission control in UMTS: Single cell case ,2003,itc18
+473,"Lamers, Eugen and Perera, Ranjit and TÃ¼rke, Ulrich and GÃ¶rg, Carmelita",Short term dynamic system level simulation concepts for {UMTS} network planning ,2003,itc18
+474,"Blondia, C. and Casals, O. and CerdÃ , Ll. and den Wijngaert, N. Van and Willems, G. and Cleyn, P. De",Low latency handoff mechanisms and their implementation in an {IEEE} 802.11 network ,2003,itc18
+475,"Murta, Cristina Duarte and Corlassoli, Tarcisio Paulo",Fastest connection first: A new scheduling policy for web servers ,2003,itc18
+476,"Naumov, V.",Spectral properties of finite buffers with phase type service and interarrival times ,2003,itc18
+477,"Bonald, T. and ProutiÃ¨re, A. and Roberts, J. and Virtamo, J.",Computational aspects of balanced fairness ,2003,itc18
+478,"Lassila, Pasi and van den Berg, Hans and Mandjes, Michel and Kooij, Rob",An integrated packet/flow model for {TCP} performance analysis ,2003,itc18
+479,"Görg, Carmelita and Charzinski, Joachim and Lehnert, Ralf and Tran-Gia, Phuoc",Preface ,2003,itc18
+480,"Gruber, Ingo and Matthiesen, Christian",The broadcast based ad hoc routing protocol (BCBR)â€”A novel approach for ad hoc routing ,2003,itc18
+481,"Nucci, A. and Schroeder, B. and Bhattacharyya, S. and Taft, N. and Diot, C.",{IGP} link weight assignment for transient link failures ,2003,itc18
+482,"Dolzer, K.",QoS in optical burst switched networks-A new performance analysis of the Assured Horizon framework,2003,itc18
+483,"Bonald, T. and Olivier, P. and Roberts, J.",Dimensioning high speed {IP} access networks ,2003,itc18
+484,"Schneps-Schneppe, Manfred and Iversen, Villy B.",Service level agreement as an issue of teletraffic ,2003,itc18
+485,"Beaubrun, R. and Pierre, S. and Conan, J.",Planning the next-generation wireless systems ,2003,itc18
+486,"Staehle, Dirk and Mäder, Andreas",An analytic approximation of the uplink capacity in a {UMTS} network with heterogeneous traffic ,2003,itc18
+487,"Xia, Cathy H. and Liu, Zhen and Squillante, Mark S. and Zhang, Li and Malouch, Naceur",Analysis of performance impact of drill-down techniques for web traffic models ,2003,itc18
+488,"Liu, Zhen and Malouch, Naceur and Misra, Vishal and Rubenstein, Dan and Sahu, Sambit",Bandwidth-Sharing schemes for multiple multi-party sessions ,2003,itc18
+489,"Guillemin, F. and Likhanov, N. and Mazumdar, R.R. and Rosenberg, C. and Ying, Yu",Buffer overflow bounds for multiplexed regulated traffic streams ,2003,itc18
+490,"Dong, S. and Phillips, C. and Friskney, R.",Differentiated-resilience provisioning in wavelength-routed optical networks ,2003,itc18
+491,"Fiems, Dieter and Bruneel, Herwig",Discrete-time queues with correlated vacations ,2003,itc18
+492,"Muller, J.-A. and Irmscher, K.",Provision of deterministic services for voice over {IP} using priority queues ,2003,itc18
+493,"Erbas, Selin Cerav and Erbas, Cagkan",A multiobjective off-line routing model for {MPLS} networks ,2003,itc18
+494,"Inghelbrecht, Veronique and Steyaert, Bart and Wittevrongel, Sabine and Bruneel, Herwig",Analytic study of the interdeparture time characteristics in a multistage network ,2003,itc18
+495,"Türke, Ulrich and Perera, Ranjit and Lamers, Eugen and Winter, Thomas and GÃ¶rg, Carmelita",An advanced approach for QoS analysis in {UMTS} radio network planning ,2003,itc18
+496,"Rouskas, George N. and Jackson, Laura E.",Optimal granularity of {MPLS} tunnels ,2003,itc18
+497,"Banchs, Albert and Pérez-Costa, Xavier and Qiao, Daji",Providing throughput guarantees in {IEEE} 802.11e wireless {LANs} ,2003,itc18
+498,"Molina, Maurizio",A scalable and efficient methodology for flow monitoring in the Internet,2003,itc18
+499,"Heusse, Martin and Gravey, Annie",A routing and resource preservation strategy for traffic engineering in communication networks ,2003,itc18
+500,"Markovitch, N.M. and Krieger, U.R.",On-line estimation of heavy-tailed traffic characteristics in Web data mining ,2003,itc18
+501,"Liu, H. and Zou, Y.Z. and Miao, D.S. and Li, D.B.",High Reliability and Large Capacity Next Generation Mobile Communication Networking,2005,itc19
+502,"Li, B.H. and Lu, T.J.",The Regulation choices analysis of 3G Standards in China,2005,itc19
+503,"Peng, J.S. and Liang, X.J.",Game analysis on innovation and regulation of value-added telecommunication service,2005,itc19
+504,"Liu, Y.H.",A Study on Asymmetrical Regulation of Telecommunications Industry,2005,itc19
+505,"Du, W.G. and Lu, T.J. and Guo, J.",Vertical Network Differentiation and Private Peering Between Internet Service Providers,2005,itc19
+506,"Shi, W.H. and Wei, L.R. and Lu, T.J.",Interconnection Between Asymmetric Internet Backbone Providers,2005,itc19
+507,"Zeng, Y. and Xin, Z.H. and Yun, T.",The effect of innovative services on mobile network traffic,2005,itc19
+508,"Graja, H. and Perry, P. and Murphy, J.",A Low Complexity Algorithm for Statistically Based Estimation of Average IP Packet Delay in Cellular Data Networks,2005,itc19
+509,"Si, Y.Q. and Chen, Y.G. and Pei, Z.G.",Modeling And Forecasting Short Message Service Income On The Arima Model,2005,itc19
+510,"Br\'{e}hon, Y. and Kofman, D.","Bus-Label Switched Paths, an approach to reduce the cost of multilayer networks",2005,itc19
+511,"Zhang, A.H. and Shu, H.Y. and Ma, J.",Profit-Oriented Mobile Telecommunication Network Resources Allocation Model Algorithm,2005,itc19
+512,"Du, J.H. and Wang, W.B.",Investigation on directional interference based DCA scheme in TDD-CDMA,2005,itc19
+513,"Zhao, Y.M. and Tao, Y. and Xu, L.",Research on network resources management system,2005,itc19
+514,"Sun, Q.H. and Liang, X.J.",Running Pattern Change Detection by Neural Network Approach in Telecommunication Network,2005,itc19
+515,"Pan, Deng and Yang, Yuanyuan",A Constant Complexity Fair Scheduler with O(log N) Delay Guarantee,2005,itc19
+516,"Xin, Zhan-Hong and Gong, Ju-Fa and Huang, Lin-Juan",The Optimum Trunks Reservation Strategy for Dynamic Routing,2005,itc19
+517,"Li, Jing and Zhang, Xin and Yang, Dacheng",Analysis of UMTS Soft Handover with Dynamic Thresholds for Traffic Load Balancing,2005,itc19
+518,"Li, Jie and Liu, Xianxing and Wei, Huangfu",A Novel Adaptive Bandwidth Reservation Scheme for Multimedia Traffic in IP Networks,2005,itc19
+519,"Xu, Hua and Tang, Sidney and Chen, Yi C.",Platform Capacity Assessment and Validation,2005,itc19
+520,"Jiang, Yuming and Emstad, Peder J.",Analysis of Stochastic Service Guarantees in Communication Networks: A Traffic Model,2005,itc19
+521,"Kumaran, J. and Mitchell, K. and van de Liefvoort, A.",An Efficient Solution to the Waiting Time Distribution in a Correlated Single Server Queue,2005,itc19
+522,"Hong, Fei and Bai, Yu",Queueing Analysis of Multiscale Network Traffic,2005,itc19
+523,"Ji, Yusheng",A Practical Approach for Multi-Scale Performance Analysis of Internet Traffic,2005,itc19
+524,"Zhang, Di and Zhang, Min and Ye, Peida",Performance Modeling of Threshold-Based Assembly Mechanism in Asynchronous Optical Packet-Switched Networks,2005,itc19
+525,"Sarker, Jahangir H.",Random Multiple Access with and without Retransmission Cut-Off,2005,itc19
+526,"Li, Lei and Niu, Zhisheng",Adaptive Admission Control for QoS Services in OFDM-MIMO Networks,2005,itc19
+527,"Huang, Qian and Chan, Sammy and Ping, Li and Ko, King-Tim and Zukerman, Moshe",Performance Modelling of TCP Over Wireless Links with Hybrid ARQ,2005,itc19
+528,"Velayos, Hector and Karlsson, Gunnar",Statistical analysis of the IEEE 802.11 MAC service time,2005,itc19
+529,"Peng, Yong and Sun, Liang and Xie, Dongliang and Li, Bo and Cheng, Shiduan",Performance Analysis and Enhancement of IEEE 802.11 DCF Contention Window Backoff Scheme in the Presence of Noise,2005,itc19
+530,"Wu, Shuxing and Yang, Tao and Wu, Weiling",Channel Selection Strategies Based on Distributed Wireless Communication System,2005,itc19
+531,"Zhou, Jianzhen and Beard, Cory",Weighted Earliest Deadline Scheduling and Its Analytical Solution for Admission Control in a Wireless Emergency Network,2005,itc19
+532,"Peng, Mugen and Wang, Wenbo",Investigation of the Distributed Antenna Scheme for Multi-cell Environment in TDD-CDMA Systems,2005,itc19
+533,"Wiczanowski, Marcin and Boche, Holger and Stanczak, Slawomir",Characterization of Optimal Resource Allocation in Cellular Networks - Optimization theoretic View and Algorithmic Solutions,2005,itc19
+534,"Zhang, Hong and Zheng, Huisong",The Analysis of International Internet Connectivity,2005,itc19
+535,"Chen, Yubao and Xin, Zhanhong",Research on the Sunk Cost of Telecommunications Industry,2005,itc19
+536,"Shi, Wenhuai and Yang, Qingfeng",Telecommunication Needs Universal Service,2005,itc19
+537,"Dong, Shuang and Liang, Xiongjian",The Analysis on the Pricing Strategy in Chinese Mobile Communication Market,2005,itc19
+538,"Koutb, M. A. and Kelash, H. M. and Aboelez, R. H. and Talaat, M. A.",Content-Aware Adaptive Video Streaming System,2005,itc19
+539,"Wang, Lan and Niu, Zhisheng",Subcarrier and Power Joint Allocation on the Uplink of Multiuser OFDM Systems,2005,itc19
+540,"Mulyana, Eueung and Stahlke, Henning and Killat, Ullrich",Dimensioning of Multi-Class Over-Provisioned IP Networks,2005,itc19
+541,"Zhang, Shu and Kreft, Lothar and Killat, Ullrich",Traffic Engineering for a Set of Multicast Groups with Respect to Hard Real Time QoS,2005,itc19
+542,"Qing, Li and Zhu, Qing-Xin and Wang, Ming-Wen",A New Robust Adaptive Controller under Dynamic Network Environment,2005,itc19
+543,"Lu, Tingrong and Zhang, Xiaofang and Ma, Yushu and Yang, Yongtian",Hierarchical Addressing in IP Networks,2005,itc19
+544,"Song, Lihua and Wang, Haitao and Chen, Ming",Congestion Control Scheme Aiming at P2P Applications in High-Speed Networks,2005,itc19
+545,"Zheng, Jianqiu and Fan, Hailan",China's Telecommunications Market and Game Theory,2005,itc19
+546,"Efimushkin, Vladimir and Ledovskikh, Tatiana",Performance Evaluation of Discrete Time Queueing System with Variable Buffer Capacity,2005,itc19
+547,"Zhang, Qizhi and Liao, Jianxin",Analysis of M/G/1 Queueing System with Fixed Times of Feedback,2005,itc19
+548,"Liu, Ruifang and Guo, Wenbin and Chen, Xun and Xu, Huimin",Using Dependence Tree Model and Upward-Downward Algorithms for Network Loss Tomography,2005,itc19
+549,"Chen, Qing and Niu, Zhisheng",Outage-Based Power and Rate Control Game for Single-Channel Ad Hoc Networks,2005,itc19
+550,"Zhang, Kai and Niu, Zhisheng",Adaptive Transmission for MIMO systems with Integrated Voice/Data Traffics,2005,itc19
+551,"Kuribayashi, Nobuhiko and Yue, Wuyi","Investigation of Millimeter Wave Gbps Wireless Access System, Based on Analysis of Millimeter Wave Propagation Characteristics",2005,itc19
+552,"Lei, Hongyan and Nilsson, Arne A.",A D/G/1 Queue Model of Power Management in Wireless LANs,2005,itc19
+553,"Jiang, Hao and Jiang, Nan and Sun, Weijun and Li, Daoben",Layered Space-time Architecture for LAS-MIMO CDMA System,2005,itc19
+554,"Miao, Guowang and Niu, Zhisheng",Multichannel Resource Management of Integrated Communication and Broadcast Networks,2005,itc19
+555,"Yin, Zeming and Liu, Yuzhang and Yang, Fangchun",An Optimized Scheme to Organize Softswitch-based Next Generation Networks,2005,itc19
+556,"Mena\""{i}, Mohamed-Fouz and Fromentoux, Ga\""{e}l",A UML Tool for Urbanism and Control Architecture Design Applied to 3GPP Based Architectures,2005,itc19
+557,"Schubert, Martin and Boche, Holger",QoS Control for Multiuser Networks - A Joint Approach to Receiver Design and Resource Allocation,2005,itc19
+558,"Xu, Tong and Liao, Jianxin",Research on the Utility Max-min Fair Algorithm of Resource Allocation,2005,itc19
+559,"Lu, Fu-Rong and Deng, Hui-Xue and Lu, Ting-Jie",Research on Inheritance of Extend Case Transfer Interorganization Workflow Management,2005,itc19
+560,"Zhang, Jun and Bensaou, Brahim and Hei, Xiaojun and Tsang, Danny H. K.",Max Routes Coverage: a Heuristic Wavelength Converters Placement Algorithm on WDM Optical Networks,2005,itc19
+561,"Moraes, Igor M. and Duarte, Otto Carlos M. B.",A Multiclass Admission Control Mechanism for Optical Burst-Switched Networks,2005,itc19
+562,"Kong, Huifang and Phillips, Chris",Prediction and Pre-booking for Guaranteed Service Provisioning in Future Wavelength-Division Multiplexing (WDM) Networks,2005,itc19
+563,"Rogiest, W. and Laevens, K. and Fiems, D. and Bruneel, H.",Analysis of an Asynchronous Single-Wavelength FDL Buffer,2005,itc19
+564,"Mazloom, Amin R. and Basu, Kalyan",Analysis of Container Formation and Delays in the Centrally Scheduled Photonic Burst Switch,2005,itc19
+565,"Zhu, Zhenzhong and Lu, Tingjie",Setting up an Independent Telecommunication Regulatory Agency in China,2005,itc19
+566,"Taylor, Richard D. and Zhang, Bin",How Technology is Driving Regulatory Reform: IPTV and the Cases of the U.S. and China,2005,itc19
+567,"Zuo, Hao and Liang, Xiong-Jian","Status Quo, Problems and Improvement in Telecom Regulations in China",2005,itc19
+568,"Xie, Xiaoxia and Liang, Xiongjian and Xu, Liang",NGN Interconnection Trend and Its Regulation Implication,2005,itc19
+569,"Wan, Yan",Regulatory Challenges to China's Telecommunications Industry from a wider Institutional Perspective,2005,itc19
+570,"Zheng, Yusheng and Liang, Xiongjian",Next Generation Network Structure and Regulatory Principles,2005,itc19
+571,"Xie, Zhi-Yong and Xin, Zhan-Hong",Price Regulation Induced Entry in China Mobile Telecom Market,2005,itc19
+572,"Dube, Parijat and Liu, Zhen and Sahu, Sambit and Silber, Jeremy",On Designing Application- Specific Overlays,2005,itc19
+573,"Binzenh\""{o}fer, Andreas and Staehle, Dirk and Henjes, Robert",On the Fly Estimation of the Peer Population in a Chord-based P2P System,2005,itc19
+574,"Ho{\ss}feld, Tobias and M\""{a}der, Andreas and Tutschku, Kurt and Tran-Gia, Phuoc and Andersen, Frank-Uwe and de Meer, Hermann and Dedinski, Ivan",Comparison of Crawling Strategies for an Optimized Mobile P2P Architecture,2005,itc19
+575,"Scharf, Michael",On the Response Time of Large-scale Composite Web Services,2005,itc19
+576,"Guo, Wei and Cheng, Shiduan",Load Sharing in Stream Control Transmission Protocol,2005,itc19
+577,"Tagami, Atsushi and Hasegawa, Teruyuki and Hasegawa, Toru",Packet Layer Routing Stability Analysis for GMPLS-based IP Backbone Network,2005,itc19
+578,"Ghosh, Preetam and Basu, Kaylan and Das, Sajal K.",A Photonic Container Switched OBS Architecture with Non-preemptive Centralized Scheduler for the Core Transport Network,2005,itc19
+579,"Matsumoto, Takehiko and Takenaka, Toyofumi",A Dynamic RWA Algorithm for Photonic Networks which Takes Account of Future Demand,2005,itc19
+580,"Yao, Mingwu and Liu, Zenji and Wen, Aijun",Comparison of the Wavelength Converter Sharing Schemes with Burst Splitting,2005,itc19
+581,"Yin, Zeming and Liu, Yuzhang and Yang, Fangchun",Performance Analysis of SIP as Signaling in Next Generation Network,2005,itc19
+582,"Yi, Yung and Shakkottai, Sanjay",FluNet: A Hybrid Internet Simulation/Emulation Environment for a Fast Queue Regime,2005,itc19
+583,"Li, Lunquan and Jiwasurat, Soranun and Liu, Peng and Kesidis, George",Emulation of Single-packet UDP Scanning Worms in Large Enterprises,2005,itc19
+584,"Elayoubi, S.-E. and Fouresti\'{e}, B.",On Trajectory Splitting for Accelerating Dynamic Simulations in Mobile Wireless Networks,2005,itc19
+585,"Boucherie, Richard J. and Lassila, Pasi",Efficient Etimation of Bocking Probabilities in Non-stationary Loss Networks,2005,itc19
+586,"Malik, Sireen and Killat, Ullrich",An Argument for Reduction of Simulation Complexity,2005,itc19
+587,"Vergetis, Evangelos and Gu\'{e}rin, Roch and Sarkar, Saswati",Improving Performance Through Channel Diversity in the Presence of Bursty Losses,2005,itc19
+588,"Roijers, F. and van den Berg, J. L. and Fan, X.",Analytical Modelling of TCP File Tansfer Times over 802.11 Wireless LANs,2005,itc19
+589,"Altman, E. and Kumar, A. and Kumar, D. and Venkatesh, R.",Cooperative and Non-Cooperative Control in IEEE 802.11 WLANs,2005,itc19
+590,"Cheung, S. K. and van den Berg, J. L. and Boucherie, Richard J. and Litjens, R. and Roijers, F.",An Analytical Packet/flow-level Modelling Approach for Wireless LANs with Quality-of-Service Support,2005,itc19
+591,"Bonneau, N. and Altman, E. and Debbah, M. and Caire, G.",An Evolutionary Game Perspective to ALOHA with Power Control,2005,itc19
+592,"Hansen, Audun Fosselie and Kvalbein, Amund and Gjessing, Stein and \u{C}i\u{c}i\'{c}, Tarik and Jensen, Terje and \Osterb\o, Olav N. and Lysne, Olav","Fast, Effective and Stable IP Recovery Using Resilient Routing Layers",2005,itc19
+593,"Herzberg, Meir and Raz, David",Resource Assignment in Multi-service Survivable Networks Based on the Cycle-oriented Approach,2005,itc19
+594,"Luo, Yi and Xin, Zhan-Hong",A Study of Tariff Mechanisms for Mobile Telecommunication,2005,itc19
+595,"Zhang, Jian and H\""{a}m\""{a}l\""{a}inen, Timo and Raatikainen, Pertti and Kaario, Kimmo",QoS Provisioning and Pricing for Delay-sensitive Applications in DiffServ Networks,2005,itc19
+596,"Zhang, Jing",Forecasting the Number of Subscribers of 3G Mobile Services in China Based on Bass Diffusion Model,2005,itc19
+597,"Arvidsson, \r{A}ke and Hederstierna, Anders and Hellmer, Stefan",Forecasting Cellular Mobile Traffic: An Econometric Approach,2005,itc19
+598,"Hu, Guoqiang and Gauger, Christoh M. and Junghans, Sascha",Performance Analysis of the CSMA/CA MAC Protocol in the DBORN Optical MAN Network Architecture,2005,itc19
+599,"Iversen, V. B. and Stepanov, S. N.",The Unified Approach for Teletraffic Models to Convert Recursions for Global State Probabilities into Stable Form,2005,itc19
+600,"Privalov, Aleksandr and Sohraby, Khosrow",Playout in CBR Networks: Single Node Case,2005,itc19
+601,"Feng, Wenying and Men, Shushuang",QoS Based Caching Scheme By Page Priority And Popularity,2005,itc19
+602,"Martin, Ruediger and Menth, Michael and Charzinski, Joachim",Comparison of Link-by-Link Admission Control and Capacity Overprovisioning,2005,itc19
+603,"Lebeugle, F. and Prouti\`{e}re, A.",User-level performance in WLAN hotspots,2005,itc19
+604,"Bonald, T. and Prouti\`{e}re, A.",On the Traffic Capacity of Cellular Data Networks,2005,itc19
+605,"Zhu, Yanfeng and Niu, Zhisheng",A Hybrid Coordination Function Based Dynamic Polling Mechanism for Enhancing Voice Transmission in IEEE 802.11e Wireless LANs,2005,itc19
+606,"Sikdar, Biplab",Queueing Analysis of IEEE 802.11 Point Coordination Function,2005,itc19
+607,"Necker, Marc C.",A Simple Model for the IP Packet Service Time in UMTS Networks,2005,itc19
+608,"Fiedler, Markus and Chevul, Stefan and Radtke, Olaf and Tutschku, Kurt and Binzenh\""{o}fer, Andreas",The Network Utility Function: A Practicable Concept for Assessing Network Impact on Distributed Services,2005,itc19
+609,"Lundqvist, Henrik and Karlsson, Gunnar",Analytical Model for an Host-based Service Differentiation Scheme,2005,itc19
+610,"Cho, Hyunjoon and Girard, Andr\'{e} and Rosenberg, Catherine",On Optimal End-to-End QoS Budget Partitioning in Network Dimensioning,2005,itc19
+611,"Zhang, Peng and Ye, Chengqing and Ma, Xueying and Li, Xin and Cheng, Yanhua",On Using Lyapunov Function to Design Optimal Controller for AQM Routers Supporting TCP Flows,2005,itc19
+612,"Yang, Jinmei and Huang, Changcheng",End-to-End Absolute Differentiated Services for Real-Time Traffic,2005,itc19
+613,"Yue, Peng and Liu, Zengji and Zhang, Bing",Fair Bandwidth Allocation for Responsive and Unresponsive flows using Approximate Fairness Dropping Scheme,2005,itc19
+614,"G\l\k{a}bowski, Mariusz and Stasiak, Marciej",Analytical Model of Switching Networks with Bandwidth Reservation and Several Attempts of Setting up a Connection,2005,itc19
+615,"Ali, M. Mehmet and Song, X.",A Performance Analysis of two Multiplexers in Tandem with Correlated Arrivals,2005,itc19
+616,"Zalesky, A. and Wong, E. W. M. and Vu, H. L. and Zukerman, M. and Rosberg, Z. and Bilgrami, M. S.",Computing Blocking in a Hybrid Optical Switch,2005,itc19
+617,"Andrew, Lachlan L. H. and Tan, Liansheng S. and Cui, Tony and Zukerman, Moshe",Fairness Comparison of FAST TCP and TCP Vegas,2005,itc19
+618,"George, Lise and Jonckheere, Matthieu and Leskel\""{a}, Lasse",Does Repacking Improve Performance of Multiclass Loss Networks with Overflow Routing?,2005,itc19
+619,"Leino, Juha and Virtamo, Jorma",Insensitive Traffic Splitting in Data Networks,2005,itc19
+620,"Leibnitz, Kenji and Wakamiya, Naoki and Murata, Masayuki",Modeling of IEEE 802.15.4 in a Cluster of Synchronized Sensor Nodes,2005,itc19
+621,"Moltchanov, D. and Koucheryavy, Y. and Harju, J.",Non-preemptive i D-BMAPi/D/1/K Queuing System Modeling the Frame Transmission Process over Wireless Channels,2005,itc19
+622,"Sakurai, Taka and Le Vu, Hai",Access Delay of the IEEE 802.11 MAC Protocol under Saturation,2005,itc19
+623,"Wang, Xin and Kar, Koushik and Low, Steven H.",Cross-Layer Rate Optimization in Wired-cum-Wireless Networks,2005,itc19
+624,"Peng, Yong and Xie, Dongliang and Sun, Liang and Cheng, Shiduan",Random Route Discovery Packet Drop Using Load Factor of MAC Layer in IEEE 802.11 Ad Hoc Networks,2005,itc19
+625,"Liu, Shuping and Virtamo, Jorma",Performance Analysis of Wireless Data Systems with a Finite Population of Mobile Users,2005,itc19
+626,"Fodor, G\'{a}bor and Telek, Mikl\'{o}s",A Recursive Formula to Calculate the Steady State of CDMA Networks,2005,itc19
+627,"Holmberg, Torgny and Iversen, Villy B.",Resource Sharing Models for Quality-of-Service with Multi-Rate Traffic,2005,itc19
+628,"van Breusegem, Erik and Puype, Bart and Colle, Didier and Cheyns, Jan and Pickavet, Mario and Demeester, Piet",Evaluation of ORION in Predimensioned Networks,2005,itc19
+629,"Elayoubi, S.-E. and Chahed, T. and Elsaghir, B.",Insuring Priorities Via Admission Control in WCDMA Mobile Systems,2005,itc19
+630,"Zang, Hui and Nucci, Antonio",Optimal NetFlow Deployment in IP Networks,2005,itc19
+631,"Milbrandt, Jens and Menth, Michael and Kopf, Stefan",Adaptive Bandwidth Allocation: Impact of Traffic Demand Models for Wide Area Networks,2005,itc19
+632,"C\'{e}dric, Fortuny and Olivier, Brun and Jean-Marie, Garcia",Optimization of Routing Metrics in IP networks,2005,itc19
+633,"Wille, Emilio C. G. and Mellia, Marco and Leonardi, Emilio and Marsan, Marco A.",IP Network Design with End-to-End QoS Constraints: The VPN Case,2005,itc19
+634,"Wang, Lan and Niu, Zhisheng",Downlink Power Control Based on Utility during Soft Handover in DS-CDMA Systems,2005,itc19
+635,"Sharafeddine, Sanaa and Riedl, Anton and Bauschert, Thomas",Network Capacity Optimization for Latency-Sensitive Traffic in Multiservice IP Networks,2005,itc19
+636,"Hartleb, Franz and Kleinewillingh\""{o}fer-Kopp, Ruth",Dimensioning Wavelength-Routed Multi-Fiber WDM Networks with Limited Number of Wavelength Converters,2005,itc19
+637,"Pla, Vicent and Casares-Giner, Vicente and Mart\'{\i}nez, Jorge",A Matrix Analytic Solution of a Finite Buffer Queue with PH Distributed Customers' Impatience,2005,itc19
+638,"Niu, Zhisheng and Liu, Jing and Liu, Song and Huang, Dawei",Performance Analysis of Voice Message Service in TDMA/CDMA Cellular Systems,2005,itc19
+639,"Maertens, Tom and Walraevens, Joris and Bruneel, Herwig",Non-exponential Tail Probabilities in Queueing Systems,2005,itc19
+640,"Schwefel, H. P. and Jobman, M.",Towards a Network Calculus for Bursty ON/OFF Traffic,2005,itc19
+641,"Mandjes, Michel and Mannersalo, Petteri and Norros, Ilkka",Priority Queues with Gaussian Input: a Path-space Approach to Loss and Delay Asymptotics,2005,itc19
+642,"Boxma, O. J. and van der Mei, R. D. and Resing, J. A.C. and van Wingerden, K. M. C.",Sojourn Time Approximations in a Two-node Queueing Network,2005,itc19
+643,"van der Mei, R. D. and Meeuwissen, H. B. and Phillipson, F.",User Perceived Quality-of-Service for Voice-over-IP in a Heterogeneous Multi-Domain Network Environment,2005,itc19
+644,"Roy, Abhishek and Basu, Kalyan and Das, Sajal K.",An Information Theoretic Framework for Predictive Channel Reservation in GPRS Push-to-Talk Service,2005,itc19
+645,"Agrawal, Rajeev and Diwan, Aniruddha and Joshi, Pranav and Kalyanasundaram, Suresh and Ramachandran, Vinod",Backhaul-Aware Carrier Selection and Scheduling Algorithms for GPRS/EDGE Networks,2005,itc19
+646,"Wu, Shuxing and Yang, Tao and Wu, Weiling",A New Dynamic Channel Assignment Scheme Based-on Channels Swapping in DWCS,2005,itc19
+647,"Zhou, Jianzhen and Mitchell, Ken",Spatial Autoregressive Models for Resource Demand Prediction in Mobile Wireless Networks,2005,itc19
+648,"Basharin, G. P. and Savochkin, E. A.",Decomposition Analysis of Linear Fragments of Wavelength Routed WDM Networks with Multicast Calls,2005,itc19
+649,"\Osterb\o, Olav",End-to-End Delay Models with Priority,2005,itc19
+650,"Reckner, Stephan and Fidler, Markus",Network Calculus and Conjugate Duality in Network Performance Analysis,2005,itc19
+651,"Schehrer, Rudolf",On the explicit Calculation of Overflow Moments of the High Priority Traffic in Loss Systems with Selective Trunk Reservation,2005,itc19
+652,"Telikepalli, Radha and Drwiega, Tadeusz and Yan, James",Modeling and Analysis of Storage Area Network Extension Solutions,2005,itc19
+653,"Qu, Zhaowei and Lu, Tingjie",A Flat Structure for QoS Support in Mobile IPv6,2005,itc19
+654,"Guan, L. and Woodward, M.E. and Awan, I. U.",Performance Analysis of Active Queue Management Scheme for Bursty and Correlated Multi-Class Traffic,2005,itc19
+655,"Nguyen, Hung X. and Thiran, Patrick",Failure Location in Transparent Optical Networks: The Asymmetry Between False and Missing Alarms,2005,itc19
+656,"Hong, James W.-K. and Leon-Garcia, Alberto",Requirements for the Operations and Management of 4G Networks,2005,itc19
+657,"Strassner, J.",NGN Management,2005,itc19
+658,"Wang, Hao and Huang, Changcheng and Yan, James",Performance of Prediction-Based Dynamic Bandwidth Provisioning,2005,itc19
+659,"\'{E}ltet\""{o}, Tam\'{a}s and Telek, Mikl\'{o}s",Numerical Analysis of Infinite Server Queues with Correlated Arrivals,2005,itc19
+660,"Cao, Jianhua and Nyberg, Christian",Linear Programming Relaxations and a Heuristic for the Buffer Sharing Model - Discounted Case,2005,itc19
+661,"Nishimura, S. and Shinno, M. and Kanehori, T.",Modeling IP traffic using a BMAP with short-term and long-term dynamics,2005,itc19
+662,"Guillemin, Fabrice and Sericola, Bruno",Transient analysis of a fluid buffer driven by a general birth and death process,2005,itc19
+663,"Denteneer, Dee and van Leeuwaarden, Johan",The Delayed Bulk Service Queue: a Model for a Reservation Process,2005,itc19
+664,"Ivanovich, M. and Fitzpatrick, P. and Bickerdike, P.",Resource Allocation Strategies in Hybrid Delay/Blocking Wireless Systems,2005,itc19
+665,"M\""{a}der, Andreas and Staehle, Dirk and Schr\""{o}der, Bernd",Dimensioning of Hardware Components in UMTS Networks with Sectorized NodeBs,2005,itc19
+666,"Lu, Ning and Bigham, John",Utility-based Adaptive Bandwidth Allocation for Multi-Class Traffic in Wireless Networks,2005,itc19
+667,"Bigham, John and Wu, Jiayi and Du, Lin",Real Time Shaping Of Coverage Patterns For Wireless Communication When Both Terminal And Base Units Move,2005,itc19
+668,"Zhang, Wenhui",Performance of Real-time and Data Traffic in Heterogeneous Overlay Wireless Networks,2005,itc19
+669,"Sharma, Vicky and Kar, Koushik and La, Richard and Tassiulas, Leandros",Dynamic Network Provisioning for Time-Varying Traffic,2005,itc19
+670,"Feng, Benjamin and Huang, Changcheng and Devetsikiotis, Michael and Rabinovitch, Peter",Provisioning End-to-End Quality of Service with Fast Importance Sampling based Traffic Engineering,2005,itc19
+671,"Srivastava, Shekhar and Agrawal, Gaurav and Medhi, Deep",Dual-Based Link Weight Determination Towards Single Shortest Path Solutions for OSPF Networks,2005,itc19
+672,"Miura, Akira and Shinagawa, Noriteru and Ishihara, Fumiaki and Suzuki, Toshiharu and Mochida, Hideo",Network Design Based on Network and Traffic Characteristics,2005,itc19
+673,"Mulyana, Eueung. and Zhang, Shu and Killat, Ullrich",Internet Traffic Engineering for Partially Uncertain Demands,2005,itc19
+674,"Mohrehkesh, Shahram and Yousefi, Saleh and Fathy, Mahmoud",A Path Computation algorithm in MPLS Traffic Engineering for reducing blocking probability,2005,itc19
+675,"Hamidian, Ali and K\""{o}rner, Ulf",Towards a Solution Providing QoS in Ad Hoc Networks,2005,itc19
+676,"Sharafkandi, Sarah and Malouch, Naceur",A Simple and Effective End-to-End Approach to Increase TCP Throughput over Ad-hoc Networks,2005,itc19
+677,"Li, Xuefei and Cuthbert, Laurie",DiffServ over Multipath Routing: QoS Provisioning for Mobile Ad hoc Networks,2005,itc19
+678,"Farinetto, Christian and Harle, David and Tachtatzis, Christos and Zuyev, Sergei.",Efficient Routing for the Extension of Lifetime and Quality of Energy Constrained Ad Hoc Networks,2005,itc19
+679,"Yang, Xiaonan and Mondrag\'{o}n, Ra\'{u}l J.",Connectivity Improvement by Delayed Transmission for Different Mobility Models of Ad-Hoc Network,2005,itc19
+680,"Ren, Biao and Liu, Lifeng and Ma, Jian",An Improved Directed Diffusion Algorithm in Wireless Sensor Networks,2005,itc19
+681,"Pattavina, Achille and Parini, Alessandra",Modelling Voice Call Interarrival and Holding Time Distributions in Mobile Networks,2005,itc19
+682,"Holanda, Raimir and Garc\'{\i}a, Jorge",A new Methodology for Packet trace Classification and Compression based on Semantic Traffic Characterization,2005,itc19
+683,"Poryazov, Stoyan A.",What is Offered Traffic In A Real Telecommunication Network?,2005,itc19
+684,"Zeidler, Johannes and Tacke, Steffen and Burgstahler, Lars",Characterization of the Traffic Source Behaviour of a GNSS/CN Electronic Fee Collection System,2005,itc19
+685,"Kumaran, J. and Mitchell, K. and van de Liefvoort, A.",An Analytic Model of Correlations Induced in a Packet Stream by Background Traffic in IP Access Networks,2005,itc19
+686,"M\""{u}ller, Thorsten and Sch\""{u}ler, J\""{o}rg",Relative Frequency of TCP Retransmission Timeouts for Burst Segment Losses,2005,itc19
+687,"Zheng, Laibo and Yuan, Dongfeng and Hu, Jiandong",The ML Algorithm of Frequency Offset Estimation for OFDM Systems Based on Pilot Symbols and Decision Data,2005,itc19
+688,"Litjens, R. and van den Berg, J.L. and Fleuren, M.J.",Spatial Traffic Heterogeneity in HSDPA Networks and its Impact on Network Planning,2005,itc19
+689,"Jensen, Terje and \Osterb\o, Olav",Blocking Probability for GSM Service Requests during Overload,2005,itc19
+690,"Sarker, Jahangir H. and H\""{a}ggman, Sven-Gustav",One Directional Real-Time Traffic Flows over the GPRS Air Interface,2005,itc19
+691,"Dirani, M. and Chahed, T.",TCP over Selective Repeat ARQ in the Presence of Correlated Error,2005,itc19
+692,"Ji, Qi-Jin",Multi-Scale Controller: A New Active Queue Management Scheme,2005,itc19
+693,"Li, Yi and Ko, King-Tim and Chen, Guanrong",H\infty Optimization of PI-Controlled AQM,2005,itc19
+694,"Austreim, Erling and Emstad, Peder J.",Rate Control of Traffic Sources Based on Level crossing in a Congested Buffer,2005,itc19
+695,"Kaneda, Shigeru and Akinaga, Yoshikazu and Shinagawa, Noriteru and Mura, Akira",Traffic Control by Influencing Users Behavior in Mobile Networks,2005,itc19
+696,"Du, Jiu-hui and Peng, Jiu-hui and Wang, Wen-bo and Kang, Jian-feng",Load and Admission Control for the TDD-CDMA with Smart Antennas,2005,itc19
+697,"Yang, Menghui and Liao, Jianxin and Zhu, Xiaomin",A Study on Overload Control Mechanism of Parlay/OSA Gateway,2005,itc19
+698,"Mirtchev, Seferin and Stanev, Ignat",Evaluation of a Single Server Delay System with a Generalized Poisson Input Stream,2005,itc19
+699,"Balasubramanian, Aruna and Gosh, Joy and Wang, Xin",A Reputation Based Scheme for Stimulating Cooperation in MANETs,2005,itc19
+700,"Xie, Jiawei and Gupta, Anil K. and Das, Amitabha. and Nandi, Sukumar",Efficient Integration of the Multicast Routing Protocol and the Reliable MAC Protocol for MANETs,2005,itc19
+701,"Alparslan, Denizhan N. and Sohraby, Denizhan N.",Random Mobility Models for Wireless Ad Hoc Networks and their One-Dimensional Analysis,2005,itc19
+702,"Zhou, Bosheng and Marshall, Alan and Lee, Tsung-Han",A Cross-Layer Architecture for DiffServ in Mobile Ad-hoc Networks,2005,itc19
+703,"Deng, Jing",Locating Randomly Selected Destinations in Large Multi-hop Wireless Networks,2005,itc19
+704,"Koukoutsidis, Ioannis and Altman, Eitan and Kelif, Jean-Marc",Fair Rate Sharing Models in a CDMA Link with Multiple Classes of Elastic Traffic,2005,itc19
+705,"Moln\'{a}r, S\'{a}ndor and Kardos, Sndor and Trinh, Tuan A.",Parameter Setting Games in TCP Vegas and FAST TCP,2005,itc19
+706,"He, Dan and Sun, Zhili and Zhou, Bo",An ARMAX/GARCH Time Series Model for IP Traffic Trace,2005,itc19
+707,"Bodouhi, Kiarash and Hadjinicolaou, Marios G.","Holding, Conversation and Setup Times Probability Distributions of Bulk Internet Telephony Traffic for VoIP/PSTN Gateways",2005,itc19
+708,"Xie, Yi and Yu, Shunzheng",A Detection Approach of User Behaviors Based on HsMM,2005,itc19
+709,"Harmantzis, F.C. and Hatzinakos, D.",Heavy Network Traffic Modeling and Simulation using Stable FARIMA Processes,2005,itc19
+710,"Chen, Yi-Chiun and Tang, Sidney and Zhou, Yingxin",Voice Quality in 3GPP Release 4 Circuit Core,2005,itc19
+711,"Lischelb, Xi and Schelb, Richard and G\""{o}rg, Carmelita and Timm-Giel, Andreas",Dimensioning of UTRAN Iub Links for Elastic Internet Traffic,2005,itc19
+712,"Saito, Hiroshi",Combined Vehicular Communication and its Performance,2005,itc19
+713,"Peng, Mugen and Wang, Wenbo",Investigation of Uplink Performances Based on the Switched Beam Antenna Scheme in TDD-CDMA Systems,2005,itc19
+714,"Yang, Tao and Wu, Shuxing and Wu, Weiling",A Multi-hop Cellular Architecture with Fixed Relay Nodes and its Reverse Link Capacity Analysis,2005,itc19
+715,"Koubaa, Mohamed and Puech, Nicolas and Gagnaire, Maurice",Traffic Engineering for Differentiated Services in Transparent WDM Networks,2005,itc19
+716,"Dziong, Zbigniew and Khedimi, Hadda and Nagarajan, Ramesh",Link Cost Optimization for Protection Routing in Meshed Networks,2005,itc19
+717,"Kist, Alexander A. and Lloyd-Smith, Bill and Harris, Richard J.",A Simple IP Flow Blocking Model,2005,itc19
+718,"Liu, Aibo and Lu, Yuming and Ji, Yuefeng",A Novel Topology Aggregation Algorithm for Hierarchical Routing in Asymmetric Networks,2005,itc19
+719,"Blefari-Melazzi, N. and Di Sorte, D. and Femminella, M. and Piacentini, L. and Reali, G.",A Distributed Brokerage Framework to Balance the Load in Wireless Networks,2005,itc19
+720,"Persaud, Rajendra and Berghoff, Gerald and Schanko, Ralf",An MPLS-based Handover Solution for Cellular Networks,2005,itc19
+721,"Liu, Yueyang and Ji, Hong and Yue, Guangxin",An Energy-Based Clustering Algorithm for Ad-Hoc Sensor Networks,2005,itc19
+722,"Yang, Yuanyuan and Ma, Chi",Battery-Aware Routing in Wireless Ad Hoc Networks -- Part II: Battery-Aware Routing ,2005,itc19
+723,"Ma, Chi and Yang, Yuanyuan",Battery-Aware Routing in Wireless Ad Hoc Networks -- Part I: Energy Model,2005,itc19
+724,"Liu, Lifeng and Zou, Shihong and Ren, Biao and Cheng, Shiduan",A Dynamic Topology Management Scheme Based on Mobility Prediction in Wireless Sensor Networks,2005,itc19
+725,"Azzana, Youssef and Guillemin, Fabrice and Robert, Philippe",A Stochastic Model for the Topology Discovery of Tree Networks,2005,itc19
+726,"Lin, Lidong and Jia, Weijia",An Efficient Method for End-to-end Available Bandwidth Measurement,2005,itc19
+727,"Eum, S and Murphy, J. and Harris, R.J.",A Fast Accurate LP Approach for Traffic Matrix Estimation,2005,itc19
+728,"Dahmouni, Hamaza and Ross\'{e}, David and Morin, Bertrand and Vaton, Sandrine",Impact of Data Traffic Composition on GPRS Performance,2005,itc19
+729,"Hong, Fei and Bai, Yu and Zhao, Zhuang",MSMD Network Tomography Based on Metrics,2005,itc19
+730,"Zhu, P.D. and Zhang, X. and Liu, Y.A. and Wang, W.B.",A Novel Tri-angle Cellular Architecture Based on OFDMA and Related Interference Resolving Algorithm,2005,itc19
+731,"Wang, Xinglin and Pei, Tingrui and Wu, Weiling",Opportunistic Beamforming Performance Evaluation With Multiple Antennas,2005,itc19
+732,"He, Jianhui and Quan, Ziyi and Men, Aidong",High-throughput High-performance OFDM via Carrier Interferometry Approaches for Complex Signaling,2005,itc19
+733,"Hu, Rose Q. and Best, Robert and Qian, Yi and Jin, Mingzhou",A Scheduling Algorithm in a Core Optical Router with Heterogeneous Traffic ,2005,itc19
+734,"Kortebi, A. and Queslati, S. and Roberts, J.",Implicit Service Differentiation using Deficit Round Robin,2005,itc19
+735,"Lie, Arne and Aamo, Ole M. and Ronningen, Leif A.",A Performance Comparison Study of DCCP and a Method with Non-binary Congestion Metrics for Streaming Media Rate Control,2005,itc19
+736,"Moscholios, Ioannis D. and Logothetis, Michael D.",Call-level Blocking of ON-OFF Traffic Sources in a Shared Resource Environment with Batched Poisson Arrival Processes,2005,itc19
+737,"Aida, Masaki and Takano, Chisa and Miura, Akira",Diffusion-Type Flow Control Scheme for Multiple Flows,2005,itc19
+738,"Lu, Zhaobiao and Zhang, Min and Zhang, Di and Ye, Peida",A Novel Scheme for Traffic Shaping at Edge Nodes in Optical Packet Switching Networks,2005,itc19
+739,"Casilari, Eduardo and Trivi\ {n}o-Cabrera, Alicia",A Practical Study of the Random Waypoint Mobility Model in Simulations of Ad hoc Networks,2005,itc19
+740,"Li, Ning and Guo, Yan and Tian, Chang and Zheng, Shao-ren",Novel Method to Estimate the Topology-Based Capacity of Mobile Ad Hoc Networks ,2005,itc19
+741,"Lin, Xiao and Bodanese, Eliane",CDMA Bus Lane: A Novel QoS Solution for Real-time Traffic in Ad Hoc Networks,2005,itc19
+742,"Dong, Fuguo and Yuan, Da and Fan, Hui",Study on Reliable Transport Technology for MPRN ,2005,itc19
+743,"Naguyen, Duc D. and Wang, Jidong and Andrew, Lachlan and Chan, Sammy",MaxNet: a More Efficient Max-min Fair Allocation Scheme,2005,itc19
+744,"Ohzahata, Satoshi and Kawashima, Konosuke",A Pure P2P Network Size Estimation Method Using Network Measurements and Computer Simulation Experiments,2005,itc19
+745,"Xun, Su and Fernandez, Jose and Rubi, Ernesto and Legrand, Iosif and Alvarez, Heidi and Ibarra, Julio",Anatomy of an International Exchange Point: Distributed Network Monitoring Using MonALISA and NetFlow,2005,itc19
+746,"Vacirca, Franceso and Ziegler, Thomas and Hasenleithner, Eduard",Estimating Frequency and Effects of TCP Spurious Retransmission Timeouts by Traffic Monitoring in Operational GPRS Networks,2005,itc19
+747,"Molina, M. and Niccolini, S. and Duffield, N.G.",A Comparative Experimental Study of Hash Functions Applied to Packet Sampling,2005,itc19
+748,"Diwakar, D. and Srinivasan, T.",A High Performance IP Lookup for IPv6 Using Parallel Computation Model,2005,itc19
+749,"Takagi, Hideaki and Yoshino, Hideaki and Matoba, Naoto and Azuma, Mitsuhiro and Shirakabe, Masashige","System Capacity Calculation for Packet-Switched Traffic in the Next Generation Wireless Systems, Part II: Batch Arrival M/G/1 Nonpreemptive Priority Queueing Model for Transmission over a Radio Channel",2005,itc19
+750,"Irnich, Tim and Walke, Bernhard H. and Takagi, Bernhard H.","System Capacity Calculation for Packet-Switched Traffic in the Next Generation Wireless Systems, Part I: M/G/1 Non-preemptive Priority Queuing Model for IP Packet Transmission",2005,itc19
+751,"Tan, Liansheng and Wang, Hanwu and Zukerman, Moshe",A Distributed Bandwidth Fair Allocation Algorithm for RPR Networks,2005,itc19
+752,"Li, Jing and Fan, Chen and Zhang, Xin and Yang, Decheng",Analysis of Downlink Power Allocation during Soft Handover in the CDMA System,2005,itc19
+753,"Li, Frank Y. and Winjum, Eli and Spilling, P\r{a}l",Connectivity-aware Rate Adaptation for 802.11 Multirate Ad Hoc Networking,2005,itc19
+754,"Yao, Na and Cuthbert, Laurie",Case Matching for Resource Management in WCDMA Network,2005,itc19
+755,"Yang, Menghui and Liao, Jianxin and Chen, Junliang",Performance Modeling and Analysis of Core Service Platform for Next-Generation Network,2005,itc19
