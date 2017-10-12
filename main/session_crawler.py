@@ -6,6 +6,8 @@ from fake_useragent import UserAgent
 import csv
 from ssl import SSLError
 
+#TODO Zitation einschließen? siehe "Admission Control and State-Dependent Routing for Multirate Circuit-Switched Traffic"
+#   A Dynamic Bandwidth Allocation Mechanism for Connectionless Traffic on ATM Networks
 
 session_cd = (300, 50)
 request_cd = (20, 5)
@@ -60,7 +62,7 @@ class CrawlerTmp:
             self.valid = False
 
     def do_request(self, query):
-        query = {"q": query}
+        query = {"as_vis": 1, "q": query}
         if self.session is None:
             self.session = self.create_session()
             if not self.valid:
