@@ -6,9 +6,6 @@ from fake_useragent import UserAgent
 import csv
 from ssl import SSLError
 
-#TODO Zitation einschließen? siehe "Admission Control and State-Dependent Routing for Multirate Circuit-Switched Traffic"
-#   A Dynamic Bandwidth Allocation Mechanism for Connectionless Traffic on ATM Networks
-
 session_cd = (300, 50)
 request_cd = (20, 5)
 request_per_session = (10, 2)
@@ -31,6 +28,7 @@ class CrawlerTmp:
     def __init__(self, proxie, id):
         self.id = id
         self.valid = True
+        self.session_open = False
         self.proxie = proxie
         self.sleep_time = time.time()
         self.requests_left = self.get_requests_for_session()
@@ -56,13 +54,18 @@ class CrawlerTmp:
     def test_connection(self, session):
         try:
             session.get(url)
+            self.session_open = True
+            self.valid = True
             print(str(self) + "connection valid")
         except requests.exceptions.ConnectionError:
-            print(str(self) + "connection invalid")
+            print(str(self) + "connection error")
+            self.valid = False
+        except SSLError:
+            print(str(self) + "ssl error")
             self.valid = False
 
     def do_request(self, query):
-        query = {"as_vis": 1, "q": query}
+        query = {"q": query}
         if self.session is None:
             self.session = self.create_session()
             if not self.valid:
@@ -87,6 +90,8 @@ class CrawlerTmp:
         self.requests_left -= 1
         if self.requests_left == 0:
             print(str(self) + "waiting for new session")
+            self.session_open = False
+            self.session = None
             self.sleep_time = time.time() + np.random.normal(session_cd[0], session_cd[1])
         else:
             self.sleep_time = time.time() + np.random.normal(request_cd[0], request_cd[1])
@@ -104,17 +109,20 @@ def get_next_crawler(crawlers):
     next_crawler = None
     for crawler in crawlers:
         if crawler.valid:
+            if crawler.sleep_time <= time.time() and crawler.session_open:
+                next_crawler = crawler
+                break
             if next_crawler is None:
                 next_crawler = crawler
             elif next_crawler.sleep_time > crawler.sleep_time:
+                # and next_crawler.sleep_time > time.time()
                 next_crawler = crawler
-            if next_crawler.sleep_time <= time.time():
-                break
     if next_crawler is None:
         return None
     sleep_time = next_crawler.sleep_time - time.time()
     if sleep_time >= 0:
         print("sleep: " + str(sleep_time))
+        # anstatt zu schlafen könnte man invalid crawler testen
         time.sleep(sleep_time)
     return next_crawler
 
@@ -135,19 +143,21 @@ def get_citation_count(noodle):
 
 
 def get_title(noodle):
-    return noodle.select("h3.gs_rt > a")[0].get_text()
+    try:
+        return noodle.select("h3.gs_rt > a")[0].get_text()
+    except IndexError:
+        return noodle.select("h3.gs_rt")[0].get_text().replace("[ZITATION][C] ", "")
 
 
-# @return : citation count, -1 when not found, -2 crawler was blocked by google, -3 no valid crawler left,
+# @return : citation count, -1 when not found, -2 crawler was blocked by google or an error occurred, -3 no valid crawler left,
 def crawl(crawler, title):
-    citation = -3
     if crawler is not None:
         r = crawler.crawl(title)
         if r is None:
             return -2
         noodles = get_results(r.text)
         if noodles.__len__() > 1:
-            if get_title(noodles[0]).lower() == title.lower():
+            if get_title(noodles[0]).lower().replace(" ", "") == title.lower().replace(" ", ""):
                 return get_citation_count(noodles[0])
             else:
                 return -1
@@ -160,7 +170,7 @@ def crawl(crawler, title):
                 return -1
         else:
             return get_citation_count(noodles[0])
-    return citation
+    return -3
 
 
 def run():
@@ -171,7 +181,6 @@ def run():
             fieldnames = ["id", "author", "title", "year", "citation", "tag"]
             writer = csv.DictWriter(csvdest, fieldnames=fieldnames)
             writer.writeheader()
-            id_ = 0
             for row in reader:
                 crawler = get_next_crawler(crawlers)
                 citation = crawl(crawler, row["title"])
@@ -181,9 +190,8 @@ def run():
                 if citation == -3:
                     print("no valid crawler left, quitting")
                     break
-                csv_dict = {"id": id_, "title": row["title"], "author": row["author"], "year": row["year"], "citation": citation,
-                            "tag": row["tag"]}
-                id_ += 1
+                csv_dict = {"id": row["id"], "citation": citation, "title": row["title"], "author": row["author"],
+                            "year": row["year"], "tag": row["tag"]}
                 writer.writerow(csv_dict)
                 print("writing: " + str(csv_dict))
 
