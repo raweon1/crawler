@@ -153,11 +153,6 @@ def get_title(noodle):
         return noodle.select("h3.gs_rt")[0].get_text().replace("[ZITATION][C] ", "")
 
 
-def get_comparable_string(string):
-    return string.lower().replace(" ", "").replace("-", "").replace(".", "")
-
-
-# @return : citation count, -1 when not found, -2 crawler was blocked by google or an error occurred, -3 no valid crawler left,
 def crawl(crawler, title):
     if crawler is not None:
         r = crawler.crawl(title)
@@ -165,10 +160,7 @@ def crawl(crawler, title):
             return -2
         noodles = get_results(r.text)
         if noodles.__len__() > 1:
-            if get_comparable_string(get_title(noodles[0])) == get_comparable_string(title):
-                return get_citation_count(noodles[0])
-            else:
-                return -1
+            return get_title(noodles[0])
         elif noodles.__len__() == 0:
             if "keine übereinstimmenden Artikel" not in r.text:
                 print(str(crawler) + "blocked by google")
@@ -183,25 +175,25 @@ def crawl(crawler, title):
 
 def run():
     crawlers = start_crawler(get_proxies())
-    with open("bib.csv", "r", encoding="utf-8") as csvsource:
-        with open("bibcitation.csv", "w", encoding="utf-8") as csvdest:
+    with open("bibcitation.csv", "r", encoding="utf-8") as csvsource:
+        with open("bibnotfound.csv", "w", encoding="utf-8") as csvdest:
             reader = csv.DictReader(csvsource)
-            fieldnames = ["id", "author", "title", "year", "citation", "tag"]
+            fieldnames = ["id", "query", "first_match", "tag"]
             writer = csv.DictWriter(csvdest, fieldnames=fieldnames)
             writer.writeheader()
             for row in reader:
-                crawler = get_next_crawler(crawlers)
-                citation = crawl(crawler, row["title"])
-                while citation == -2:
+                if row["citation"] == "-1":
                     crawler = get_next_crawler(crawlers)
-                    citation = crawl(crawler, row["title"])
-                if citation == -3:
-                    print("no valid crawler left, quitting")
-                    break
-                csv_dict = {"id": row["id"], "citation": citation, "title": row["title"], "author": row["author"],
-                            "year": row["year"], "tag": row["tag"]}
-                writer.writerow(csv_dict)
-                print("writing: " + str(csv_dict))
+                    match = crawl(crawler, row["title"])
+                    while match == -2:
+                        crawler = get_next_crawler(crawlers)
+                        match = crawl(crawler, row["title"])
+                    if match == -3:
+                        print("no valid crawler left, quitting")
+                        break
+                    csv_dict = {"id": row["id"], "query": row["title"], "first_match": match, "tag": row["tag"]}
+                    writer.writerow(csv_dict)
+                    print("writing: " + str(csv_dict))
 
 
 run()
